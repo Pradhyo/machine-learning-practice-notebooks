@@ -1,0 +1,1290 @@
+Creating file to write output
+
+
+
+epoch 1
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+  ..     .     .  . .? .?. ? ?.  .? . .. .   ,  ...   ? ..   .. ?  .. . ?      .  ??.  . . ?. .   ..  ...  . . .   . . . .  .   ?   .... ?           ..  ..    .   .. . ?. .. ........ . .     ?  .     
+--- temperature: 0.5
+..0. .? ..     . 0 .'  . ..   ..... . ??. ..? ' .?,  0 ?,..,? ..  .,  ??. ,    .?  ?0!. '..  .??  .. .. .?  .... , ] ? .? ?, ...?., .? . ...? . ...? . .. ?. .. . ?   .. .??.....? . .   ..0  ? . me ... 
+--- temperature: 1.0
+i .?.?.you?0.,youmy:and ",    !0..'??,   .. ,   , ?.  .?..!?and for ?? : .'.-'..,??? !?and."00:.? ?:???,? and?,?:  .....:and. ?? :! .to.  ?'.0]?..that ! ?.we?   i:i? ,?:0!-???!.. ??.,.?,??? ?:- .you !is ? 0.!.?   ., "..?- - .
+--- temperature: 1.2
+"gonna! who0.,. ?..:: right.]?. 0:!  :.you, ':..?:"and you!.']?? .?..you.is',tiny?.??i?'? .?',.they??you'.?yousent ".of?,for!?cause .000-0?-?..:?michael.you.. .. .?0 ?  ..  ]:?' ?. 0. ’, ?' ,?! of!. ??that- ,, ,-, !!?to  must  '] ?0.and??!,?:?!?0-0'??and!you  .
+
+epoch 2
+
+--- Generating with seed: "did you think i was going to fire you? no"
+
+--- temperature: 0.2
+did you think i was going to fire you? no, i don't know. i don't know what you know what you know what? i don't know what you know what you know what? i don't know what you know what you know what? i don't know what you know what i will do that i know what you know what? i don't know. i don't know what you know what you know what? michael: yeah, i know what you know what?                                 
+--- temperature: 0.5
+                     andy: i don't know what you know what i want to say you look to me? pam: oh, i would have to get you to be not time in the way i love it.               pam: okay. jim: hey, we are him. pam: you can do that. dwight: you want to do my boss, i don't think that i don't know what i don't know what you know what?   michael: okay, i don't know what you know what you 
+--- temperature: 1.0
+, i don't know what you know what you need a computer deal ?  jim: [] here we night! jim: kevin. robert: really? michael: yes. jim: sure, 'cause where mean i mean? charles: how did you get that? nellie: yeah, right? he does it call.   michael: ok, what is look the enough. on the  ’s him a great way?  michael: [on phone]    andy: oh, i want to me. oh, hey, all right. feel funny. michael: i can come over too out today there. bye. good. uh,
+--- temperature: 1.2
+ over too out today there. bye. good. uh, i can. phyllis: you have a camerawhen he's with my job now. i. jim: ll something the say man! michael: you got your . i can't funny. andy: yeah, i'm just been michael hank! get too were out for you.  michael: i’m going to do us. andy: no, i'm up, man. jim: you go here. no, yeah. [oscar , ., stanley. we'll let you in pam] if you know time that had back up in crazy sex. oscar: fine
+
+epoch 3
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+          .                            .    .                .   .                                                                               . ?                              .          ..         
+--- temperature: 0.5
+..?   .  .  ,.  , ,  ...  ,,  .  ,    .   ,          ...,??      ,    ??  ,      ,          .     .  ,.      ?   ?. ..      .?   .  .      ,  ! ..?,?..       ?     .   ?       .         ? ]          ,
+--- temperature: 1.0
+ .:-. ?.  ?!--? .? to?,on-  ?-. . " ..],, ?!,..!. .   .,'., ]. ?,-?,. .  ? .?..! - ?..? ]] . ..! '  , .   !.   .  ] ,?, -.  ,.!.? !.   .?   ..?,''].  ?!.,    ?0!. ?- '!   ].? ,,..,!  !!,!.,  !!?..? ,???
+--- temperature: 1.2
+. ! .,. !??' !  ? ,,on.,,.'  ?? .??,  ' !?! , ,,..  .  -  !   ] ,,]?]    ’.   ?! ! '?." 0 .?],’   ', ,  ?. ,.,’ . ?. ! .,',. -] ,,! ,.- ?,'?and?..,  .?  ]. ',...  ' s- ,.? : ,?   ??0,-, ?  ,,, :.,..??! ,
+
+epoch 4
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+ !!!! !   ! !!!! !!!!!!  ! !! !!! !!!!!!!! !!!!! ! !   !!!!!! !  !! !!!! !  ! !!! !!!!! !!!!!! !!!!! !!!! !!! !!  ! ! !! !! !! !!!! ! !!!!  !!  !      !! !!!!!!! !!   ! !!! !!!!  ! !!! ! !!!!  !! ! ! 
+--- temperature: 0.5
+! !!!!  !!  ! ! !   ?  !!  .!!  ! !!  !!  .        ! !!!  ! !!!    !!!!  !   !!!, !  !!!  ?!! !! ! ! !!!!! !!  !!   !   !!!! !   ! !! !!! !!?  !!  . ! !! !!! !! !!! !    !!!!      !! !  !!  !  !!! !!.
+--- temperature: 1.0
+ ,!   !.!! ?  ! !!' ! ' !! ,!!' !!  '!,!!!! !.!!.  . !! .   ,!. !  !!!.! !   !! !!!. !!!!!   !! !!!?! !? !!'!. ,, !!!!' !.!! !     !?-! !! ?    !!?!!.  ! !!! !,' ?.,!?!!!!. ?, !. !! !! ! !  ! ?!!  !"!
+--- temperature: 1.2
+! ?!!!! !  !! ! .!!?!!!,?!'. ?   !! ,!    ?   -''  ! dwight!! !'?! ! ?! " !?!!]!!in  dwight' !. .,!!,! ,!!   . !!?!  .  !! !!  , !!!.  ??' ,.??of. ! .?]! .!!   ,'!!!, .'!.   ! !,!? ! !!-, '   !     ,’?!!!!!-! and.!
+
+epoch 5
+
+--- Generating with seed: "and i decide we want to talk to jo, then"
+
+--- temperature: 0.2
+and i decide we want to talk to jo, then i don't know what? i don't know what you want to do that. michael: oh, yeah. michael: oh, no. michael: oh, no, no, no, no, no, no. i'm not gonna be a little drink. jim: i don't know what you do. michael: i don't know. i'm in a little a little   it was a little leaving.                                                    
+--- temperature: 0.5
+                    dwight: -          pam: i don't know what you can.            michael: oh, hey, hey, hey, hey, hey, hey, hey. [?                    jim:                     andy:                        dwight:                      andy:              ryan: [on phone phone camera] it's really 
+--- temperature: 1.0
+ ryan: [on phone phone camera] it's really little '... that is a little manager of... ok. oscar: come? no, how can don't be any job? pam: if you look did. why? jim: thank you. [as    stanley: [over phone] jim, it’s love your the little you. [  pam] so, no.  michael: i'm ready. that's this. so oh? okay, ryan, we got someone out for this ,, and then she can, you to get   it. because you got something to a little baby. ryan:
+--- temperature: 1.2
+ because you got something to a little baby. ryan: well please. michael: ve just--. or saying’t come- 'cause about michael?! toby: oh! please like it! it's not. a heart coming there? how did and we got me’s serious? and i didn’t like you out. ryan: no, uh, no, would you haven't she is off than coming? michael: dunder... hey, that's it... great for a little . i m gonna do back to me away. how did he say for the office? dwight: [not camera meredith] jim
+
+epoch 6
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.!!!!!!!!!!!!!!.!!!!!!!!!!!! !!!!!!!!!!!!!!!!!.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!'!!!!!!! !!!!!!!!!!!!!.!!!!!!!!!!!!!!!!!!!!!!!!.!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 1.0
+!!!!.!!!.,!!, ....!!.!!.,!!!’! !  .- !!  !,!!! !!!!!,!!.!? !!.!!!,!!!!! !!!!!?!!!!! !!,'!!! .,!!.!!!-!!!!,!!!!!-.'!!!-!! !!!?.!!?! . !,-!!!-!!! !! !!! !!!! !!!!!!!.! !.  !! ..,.,!!!!!! !!,!!' !!.!!!,!
+--- temperature: 1.2
+ .!?!' !!!!,! !!.- !,!!,! !'!!!!-! ! !!',! .!? !?!!!!!!!!!!!!!!?!!:!.-!!..!!!!!!!.!'!!!! .!. !! ! !!!! ?!!,!!!!.!.!.!!!!!!!!!!!. ?! !!-.! !'!!!?!! !!'!!?!.,!,!??  ! !'!!’.!..  !,'! !!!!!!-.! !!,!!.].!
+
+epoch 7
+
+--- Generating with seed: " kevin: if i go home now, i'll just"
+
+--- temperature: 0.2
+ kevin: if i go home now, i'll just be here.                               michael: what are you doing? jim: i don't think you are not a party. michael: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no
+--- temperature: 0.5
+ no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. [laughs] oh, great.  dwight: [laughs]      jim: what are you doing? jim: you are not going to have a computer one more?       michael: i don't want to get my eye.          pam: uh, i did not think we are still gonna do it right? 
+--- temperature: 1.0
+ not think we are still gonna do it right? michael: i like what angela, are you sure's very good. pam: i don't. i don't want a tough!     andy: very good. [laughs] jim: what? michael: what you mean? pam: ah, good. dwight: give them back with that.   roy: okay, do you want to go to like that for this to go. oscar: is dwight here home if you like that right? and i don't believe if you have some question. jan: i am not. oscar: one that work time.
+--- temperature: 1.2
+: i am not. oscar: one that work time. michael: okay, sure. charles: - it's- stanley: man! are you just here what? toby: that's gonna think something about. thanks, right. michael: no, it's you from ok, yeah. [to camera] ah, talk from michael? jim: ok, come back up oscar, kelly.. really really good all you think. oscar: what get his in? um... you said to my ?... michael: well, this one my job. let me take you, he does. pam: no, you have to be 
+
+epoch 8
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!! !!!!!!!! !!!!!!! !!!!!!!!!!!!!
+--- temperature: 0.5
+.!  -!! !!!! ! !!!.!!!!  ?!! .!!!!!!!!!!!!!!! !! !!!!! !! ! !!!!!!!?!.!! !!! !! !!!.!!!!!.! ! ! !!!!!!! ! !!!!!!,! ! '!!! !  !!!!!!!!! !!-!!!- !!  ! !!!!.!!!! !!!!!! !.! !!!!!!!!!!!.!!? !-! ! !!!!!!,!
+--- temperature: 1.0
+’ !!!'! !!.! ! !! ?!! !. ! !  ,!!!!!,!!!' !!! .!!..!,  !?. !!!,,?!!!  ,!!!?!!, ,! ! !!!-.? ! !!! !.! '!-!, , !,,!!!!- ! !'' !!,!!??,!!!-!!!! .?.  !!,,,!!?!!,! ! ? ]!  !!!..  ,! ! ! . !  ! .,,!!!.!  ,!
+--- temperature: 1.2
+!!! ! !,.! , ,.!?! ! ? !’-! ! !"! !.-! .. !! !!!-.,,!,.!, -!.! .!! !!.!!.!?!! .- .'!? ,  !!,?,,!! ', !!!!!?!. !! -.,!.!  !!-  !--!! !!? , !' !!.. ! ?!!- !!,?-!  !,!?,! -!?-!!.!! !!?!   .  .! !!! ?!,'!
+
+epoch 9
+
+--- Generating with seed: "i'm not gonna do that. michael: no? no"
+
+--- temperature: 0.2
+i'm not gonna do that. michael: no? no, no, no, no, no, no, no, no, no, no, no, no. i'm not going to go to the bathroom. jim: oh, yeah.                    pam: [on phone] yeah. i can do it.                    jim: [on phone] yeah. i'm sorry. i'm sorry. i'm sorry, i'm sorry.       michael: [pam and michael ' jim and michael ' jim and michael - michael: [
+--- temperature: 0.5
+jim and michael ' jim and michael - michael: [pam and jim t m the best and this is the second.  pam: yeah. michael: yeah. dwight: [to michael] oh, m the second on this office and you are you going to get the office and we had you and pam and michael , to see you later. dwight: oh, yeah. [pam and michael ' pam ' michael ' jim and pam we were fired and you are this job. michael: yes. dwight: [on phone] i want to go to the bathroom, and i had to the bathroom. jim
+--- temperature: 1.0
+ the bathroom, and i had to the bathroom. jim: what? well, gabe, you home? dwight: how did they doing?  michael: [they on office, kevin] i is good to see you. michael: and that's not you go. dwight: jim is you dwight, kelly. dwight: [laughing]  dwight: my very way.  pam: hmm. dwight: yeah, michael, it was michael scott, scott! michael: [on phone] dwight just re it, so that, i wouldn't 0 jim: uh... i do that. ,?   meredith: i'm sorry, jim m m 
+--- temperature: 1.2
+?   meredith: i'm sorry, jim m m 0: two this my office. toby: [michael and jim ] yes, i... , as you.d   angela: dwight huh? what's it going to do this? dwight: thank you. jim: yeah, because we is fun. i..!.really? toby: yeah... dwight: why don't you take... oscar: how you do you've d know we were, and i. michael: they put the mall on a suit.  stanley: that have i drink. jim: when is it your car it was the camera great
+
+epoch 10
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!! ! !!!!!!!!!!!! !!!!!!! ! ! !!!!!!!!!!!!!!!!!!!!!!!!!!!  !!!!!!!!!!!!!!!!!!!!!!!!!! ! !!  !! !!!!!!!!! !! !!!   !!!!!!!!!!!!!!! !!!!!!!!! ! ! !!!!!!!  !! !!!! !  !!!!!!!!!!!!!!!! !!!!!!!!  !!!!!!!
+--- temperature: 0.5
+.?!?? !!!!   !!!  ! ! ! !!!!  ! ?! ,!,!!-!.!? !!! !?! !!! !!    ! ! ,,!!!!  ' !! !!  !!!!!,   !! !!!,. !,?   ! !!!-! ' !.?? !!!!  !!!!?!!!!!   !!  --!!?!! !! !?'!!!!  !!!! !  !!!   !!!!!?! ?,!?!! !!! 
+--- temperature: 1.0
+   !!'  ?!!-!!  !, !.!??- ??!??! .! !!!? !!!!? ?!!, !.!!!!?  !!,, '!-!. !,'!,!?!! !,!-,?.!!,! !!  ,   -?! .-!!..!, .?' !  ? !??!!,-,!!! ?!.? ,- !.'!!,!?!!!??.' !!!! !!?  ?! !,? ! ?, ,!! ?!!!,!!!-'!-?!
+--- temperature: 1.2
+!!?-!?.?!'!!.,!!?,!? !?!. ,!'!  ':..! ,  !,.--. -., -.!,!,'!:!  ?!!! ? ,   ?,!,  .  ?.!!?! ?! . !!! !'!  !'!! !,!!,-... !!!?!!'?!-!!!!.! !!?. !,!! ?  !!!.,?!  ?! , !! ,'?'.'!!.  ! ,' -' !!.! ? - !?,?!
+
+epoch 11
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!!!.!.!!!?!!!!?! !!!!!!!!!!!!! !!! !!!!!!!!!!,!!!.!!!!!!!!!?!!!-! !!.!!!!!!!!!!!,!??!!!!!!!! !! !!!!?!! !!!!!!!!!! !!!!!!!!? !!!!!!!!!!!! !!! !!!!!!!!?!!!!!!!!,!?!!!! !?!!!!!!!!!!! !!!!!?!!!!!!!!,!?!
+--- temperature: 1.0
+!!!! !,!,! .!,!!!!! !,!. !?.!,-!!,!!!!',!!!!,!!!..?!  '?.!!! -!.!.!',!!!. .?!,!!!?!- !.? !!  !!!!!??! !?!! ,,!??!!,?!!.! -!.-!!?,!,!!?!!,  ! ! !!!!!! !'  !,! !,!?!?! !!?!  !!?!!!!!!!.,!!.-'!'!? , !!.?
+--- temperature: 1.2
+'!?!!,, !!'?!?,,?-!?!!??! .! ,!, !!.?! .?, ' .!!????--?!--! -!!' -?!'?  !!'!!  !!!? ,!..:! !!!!!!! ! ?! !!'!!!! !, !!?!'!!?,!!'!',??!!!!.!  !!!??!!?,!?,'!?!,!??!!!,!,!!!!!,!! ?!:.!! ! -,-.,.! ! ,?!!.,
+
+epoch 12
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!! !! !!!! ! !!!!! !!!!   !!! !!!!!!!!!!! !!! !! !  !!! !!!!!! !!!! !!    !!!!!!!! !!  !!!!! ! !!! !!! !!!!!!!!!!  !!!!!!!!!!!!! !!!!!!!!!! !! !!!!!!!!!! !!!!! ! ! !! !! ! !! !!!!!!!!!!!!!!! !!! ! !!
+--- temperature: 0.5
+!! !!!,!!! !!!!?!! ! !  ! !!   !!!!!! !!!!.! ! , !!!!! !! !.  ! !! ! !  !!!! !!!, ! ! !!!!, !! !!.!!  !!! .! ! ? !!!? . !!!. !? !!!? ! ?!!!!!  !! ! !! ! !!!!!!! !!?! ?!!  !!,-,!     !.!   !!!.!!!!! !!
+--- temperature: 1.0
+! ! !, !!!, ,!!!! ?!,!-  !,! !!!  !?!!-! ?,!!  - ,-!!! !!?,!!!??! !?!! ,.!!!'! '? !.'  '?,! !.!,?! !!-   ! !  !! !,?!!  ?! !   !! !.  !   !   ?!!'?!?!,!  ! ???!!,!.,!,,!?!! ! !  . !'!'! ?!?!.  ' !,! !
+--- temperature: 1.2
+.,!.-! ? ? !,!!,? .,.!. ??. ,!!? . ,, !!,  .!'!,,?! !! !,.!!  '  ?.   ! -, ? ?-?!?!..?.,,..! ! .! !, ..! !! !?? ?!?'!  ,, ,! ? ?.?. , ??!!!,!!  !!!.'. !!'  '?! !!???.?. -.. !! !!’?? -!!!  ,! ,!?,  .?!
+
+epoch 13
+
+--- Generating with seed: " andy: uh, i'll hear the other one. "
+
+--- temperature: 0.2
+ andy: uh, i'll hear the other one.                 michael: michael, you know what? i don't know how no to do that?               dwight: [to dwight] what are you doing? dwight: i don't know if i don't do that.                  andy: [to jim] what are you doing? dwight: i don't know how i have to do that.             michael: you know what? i don't know if i didn't
+--- temperature: 0.5
+know what? i don't know if i didn't talk that was that hmm. michael: oh, it is a big deal. michael: you know what? i didn't have to the hospital. dwight: i don't know. i just don't know. it's a little. michael: no, you know, i just don't want to be a lot of my job too want to do. michael: oh, it's it. i didn't know how no to do that. i just have a little the hospital. [re good head in the bathroom and leaves] he was talking
+--- temperature: 1.0
+good head in the bathroom and leaves] he was talking to us? that's that!  kevin: i don't. it's really not meeting! [crying]  i have a lot of one. jan: [middle up, and into the hospital] yeah. andy: oh, no. andy: ok, this 00 ! right there. dwight: a little the s time you ok? ryan: no, i love it. andy: hmm. i don't mean it. i was just just go just go. michael: hey, andy. [, his day. kevin: andy. angela: michael, i'd be doing
+--- temperature: 1.2
+ kevin: andy. angela: michael, i'd be doing the might gonna’m on. one other-you with, michael, you are- pam: well... [, old, and i might not know. uh, that one. d she.  pam: we're already. oscar:  pam: what?  jim: in good man is jim down. i’m gonna that there a close-idea. michael: michael, can i love that? i'm gonna just to m out... jim: this is like us that there. dwight: well, this, what? erin: no, dwight, good, don't...
+
+epoch 14
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+ !??!!!!  ?!!!!! !!!!!!!?!!! !!!!!!!!!!!!!!! ??!!!!!?!!?!!!!? ?!!??  !!!!!!! ! !!!!!??!!!!!! ??! !!!!!!!!?!?!!!!!  ! !! !!!?!!!?!!!!!!? !!!!!!!!!!  !! !!  !!!! !?! !!!!? ?!!?! !?!!!?!  !! ???!!?!!! !!
+--- temperature: 0.5
+!  !!?!?!!!!!?!?! ??!! !!!? ??!!!! ?!!?!!!!! ?  !,! !?!?!?!!??! ? !.!??!!?  !?!?!? ! !!! !!?!? !!!,  !,  !!  ! ! !?! ! ? ! !! , ! !!?? !!!? !?! !?   ? ?!!! ?!?? ?.!??!!? ? !???!!!?? ?!? ?? ?.! ?!  ?!!
+--- temperature: 1.0
+!,. !!!.,,!, ,?! ?? .- !?! ???!!,! ! ?'?! ,!!,.?   .!!!,, !!?.? ! !! ! ?!??! ,.,!? !.!!??? !??!?.!???!,! ,?,! ???! , ? . !!!?, !??,,? !  !?!?!!!!? !,!! ! .?,?!!!!!!?! ?.!,?!?!!!!,!.,  ??!??? !!!   !  
+--- temperature: 1.2
+! ??! '!?! , ?,??-., ?!!,?!?!. ' !!!! ! ! !??  ?!? ???''!!,!. !,'?!,?,? !?!!? ??? ' ,!  !!' ,? ,???,!  ! ?? .??,.. ! ??-,?!?!?!!!??  ,! !!, !??    ? !??! ?!,, ? ,?,!! ?! .!,?  ?!?-? ??!!!  .???. !.?  
+
+epoch 15
+
+--- Generating with seed: " mmm. stanley: or do you only drink with your"
+
+--- temperature: 0.2
+ mmm. stanley: or do you only drink with your own time. michael: i don't know. i am not going to be back in the best and i did not even know what i was talking about. i don't want to be back to the bathroom. i don't want to be back to work.     michael: you know what? i mean you can not know if i don't want to go back to the bathroom. i don't want to do that.  dwight: i don't know. i don't know. i am not going to be back
+--- temperature: 0.5
+don't know. i am not going to be back in your own man and i have some time back to work for me. pam: oh, great. i don't know what you said. pam: michael, i know. i don't know what you want. jim: we don't know. i can do. i have a .. i was just a , time to be back in a ., really good question. i am not going to go in a . about your own '? i know. i am the s just a  michael: and i don't know. jim
+--- temperature: 1.0
+just a  michael: and i don't know. jim: this is a lot of big last night and eat what you guys! dwight: come on on. do right! phyllis: angela, pam, is... [andy raises phone hand] can you see the re of that? michael: yes. that is a presentation, i can do that. [laughs] pam: okay, okay, so... andy: have a " all's about ready. why don't you friends? angela: yeah why don't you have a , now at all the throat's my own dwight '] phyllis. michael, 
+--- temperature: 1.2
+ throat's my own dwight '] phyllis. michael, stop him! kevin: come out if you get? phyllis is right what you're going to see. but they put these got some time at up, how do you that? robert: of course. andy: what's going? toby: 'cause he'll talk to me for you? i'm there. just want it to have an hour with a .? michael: this is should before... d really take them back up. she !, here's... why would you really have about my conference room up later. angela: these 
+
+epoch 16
+
+--- Generating with seed: " michael: we are so rich. pam: are you "
+
+--- temperature: 0.2
+ michael: we are so rich. pam: are you sure? jim: i don’t think so. michael: i'm not doing this time. michael: you know what? i need to go to the bathroom you had to go. [laughs] pam: i'm sorry. michael: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. i'm not doing this in the party
+--- temperature: 0.5
+, no. i'm not doing this in the party. jim: i'm gonna go to the bathroom just go, go ahead. michael: don't do this. [laughs] i'm sorry. i'm not thinking of your room. michael: i'm doing this back in the way. michael: i don't want to go with this on the phone. i'm not doing this back in the party. michael: i think you can't say something about this to see kelly. you know what you know what? i am going to go to do that. dwight: i don't have
+--- temperature: 1.0
+ go to do that. dwight: i don't have back to the party. dwight: him can't. it's gonna be really right, cause i should go around. it wasn't something here in this party for dwight time to go out, so. come on, so you're not. andy: so with those are so glad we're you in the desk. angela: i want them off! phyllis: oh, good for it. dwight: get up! jim: oh! pam: oh, you want to know? andy: i'm not still not 00! pete: i don’t have 
+--- temperature: 1.2
+ still not 00! pete: i don’t have to just ask you to me!  pam: there’s the car ahead of had to back here in to the party. [dwight walks off his phone]  angela: go. pam: got a joke. pam: oh, never darryl. we get looks back down in the name! michael: did that have a excuse for him! michael: you have to do this, too. where don't we talk to? oscar: something don't have to make him you're ready in pam a.  donna: oh, really, how m?  ...
+
+epoch 17
+
+--- Generating with seed: "me now if you're coming or not? ryan: "
+
+--- temperature: 0.2
+me now if you're coming or not? ryan: i'm not going to be in the bathroom. michael: oh, no. no, no, no, no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no
+--- temperature: 0.5
+ no! no! no! no! no! no! no! dwight! no! no! no! no! no!      dwight: what? andy: i know. i have to see you. jim: you have a  ... what are you doing? michael: oh.     jim: yes. pam: i know that i don't know. i'm doing this a terrible that are me for ', michael. michael: okay. michael: oh, it's not a rest, or and i'm just gonna be there of a little bit.  kevin: i know that i know, and i'
+--- temperature: 1.0
+  kevin: i know that i know, and i'm going to see you. i want it.  erin: oh! that's gonna ', dwight. it's happy. pam: well, pam, okay.  pam: pam] what? jim: wow. pam: and it's great. we very nice. jan: [sighs] you know what, toby, toby, i'm great, david, phyllis is a time, jim. how do you have some time to- nellie: what? pam: what? stanley: i can't tell her because you have a  , guys on your party. pam: i have 
+--- temperature: 1.2
+  , guys on your party. pam: i have the house that i don't have a  . not make me a final-   jim: your makes it's right. if pam?tobyjan: no. donna: yes. thank you. toby: but, you can't be in the temp.  phyllis: no, um... dwight: he's dead! you have to tell meredith up what? carol: [  michael gets like]     jim: it was one of one looks! ryan: jim was out to... she's into all right? and you, no party work is. i'
+
+epoch 18
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!?!!!!!!!!!!!?!!!!!!!!!!?!!!!!!?!!!!!!!!!!?!!!!!!!!!!?!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!?!!!!!!!!!!!!!!!??!!
+--- temperature: 0.5
+!!!!,!! !!!!!!!?!!!!!!?!?!!!!?!!!?!!!?!?!?!!!?!!!.!!?.!!!!!?!?!!!!!!!?!!!?!!?!!!!!?!!! ?! !!?!!!!??!?!!?!!!!!?!!?!!!!,!!!!?!!!!!?!!!!!!?!!?!!!!!!!??!.!?!!!?!?!!!!!?!!!!!??!!?!!!!!!!!!!!!!?!!!? ?!??!,!
+--- temperature: 1.0
+!!!. ?  !?!.!???!.? ??!!!? ! !!???. !!!? !?!!!!!!!!!!!!!??!?!!!! !?!?!?!.!!!!??!?!!!!!!??! ,!?!?!.?!!!.?!!!! !?!! !!!,!!!??!!! ?.?!?,-? !!!!!!!! !?!,!!!!?!,!!????!?,.!-?!??!?!.!,?!!!!!!! !!!?,?, !!! !
+--- temperature: 1.2
+?????.!?!!,!?!!!!!!!.!!!!!!-??,?!!?!?!!!!!!!.!!!,??!?.,. ???!?!!??!!??!!!?!!!?,,!??!,-!!!!??!!!!!??!??-!!!?!?!!?!.!?!?!!!  !!!,??!!!.!! !!  !!!.!!!  ?!!!!,!,!! !? !,?!?.!!!.??!!! .!!!!!,?,!?!!!.!?,!!-
+
+epoch 19
+
+--- Generating with seed: ". pam : yeah? dwight: y'know what, i"
+
+--- temperature: 0.2
+. pam : yeah? dwight: y'know what, i can do that. pam: oh, no. pam: oh man. pam: i'm not the whole thing of your good. michael: okay. michael: okay. michael: well, i think it is a way. michael: oh no no! michael: no. dwight: all right. all right. [laughs] i can't do that. pam: oh, i know. pam: oh, no. pam: i know what you did it. pam: i think it was a good way. michael: i know, i think it was a good way. michael
+--- temperature: 0.5
+ know, i think it was a good way. michael: i know, but i think that i have to go to the way. michael: oh, no. jim: oh, no. you do not have to make a phone to get to know. oh, no, no, no, no! no! [gets up to up to it, and michael hug] oh, no, no, no, no! michael: oh my god! pam: [. a good was good. pam: okay, okay. michael: well, all right. michael: yes. michael: what you want to do to it? i just 
+--- temperature: 1.0
+ what you want to do to it? i just seen, of a time. jim: oh i think you have something to do to do this. michael: wow. why all to me? ryan: well he didn’t think that's school? jim: michael, [they hands] jim: nope.  michael: with a chuckles is. pam: sure, hey, hey, i'm going to know. jim: so i do think you're gonna tell this problem. michael: i have to hurt for a phone. what is me? dwight: wait, thank you! it’m not coming ahead. david wallace:
+--- temperature: 1.2
+thank you! it’m not coming ahead. david wallace: what we got? toby: i, no, it's so a good way. you'll just think about michael? [nods his eyes. dwight: where did i all think about it-she with jim for everybody. carol: hey, guys, well, i am going to do michael.  jim: man, this is so good, you know, um... jim: one more. michael: love you to have to go. thanks. phyllis: oh, he can hit the , who is just gonna say the way, yeah? dwight: yes. dwight: 
+
+epoch 20
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!?!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!!!!???!!!?!!!,!!!?!!!!??!!?!!!?!!!!?,?!!!!?!?!!!!??!?!!!!!!?!!?!!!?!!!!?!!!!?!!!!!!!?!!!!??!!!!!!!!!!!!!!??!,!!!!!!!?!!!?!???!!!!!!!!?!!?!!??!!!??!!?!!!!?!!?!!?!!?!!!!!!!!!!!!!!!!??!!!!!!?!???!!!?!?
+--- temperature: 1.0
+!-!!?!!!.?,!?.!'? !!!?!?!!?!-?!!!???!!-?.?!?!?'!!!!!.?'!!??,?!!!!!?!?,?!!!,??!,!,??!????!!!!!!!?!?,?????!?!?!?!!!.!?-?!??!?!!!.!?..!!!!!?!!!!!!!!??!?!.?????-!!!?.??!..-?!???!??!!!.!?!?!!!!!?!.!,??!!? 
+--- temperature: 1.2
+!,?!?!?.!??!!!???!!???,!!??'!??!.?!!!!!!!!!?!,!!!!!-? !!!??,-!!!!?!?????!!!!!?!! !! !-!-!!?!,?!'!!!!!!.!,? ,!!! !?!,!! !, !!!!]?.?!!!!.!.!!.?!???.!?!,!!!!.!!!???-!!'],]??.!!?!??,?.??!!??!,!!,?!! ????!
+
+epoch 21
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!?!!?!!!?!!!?!!?!!!?!!!!!?!!!?!!!!!!!!!?!!!!!?!!?!!?!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!?!!!!?!!!!!!]!?!!!!!!?!!!!!!!!!!!.!!!!!!!!???!!!!!!!!?!!!?!!!!!!!!!!!!!!!!!!,?!!!!!,!?!!!?!!!!!!!!!
+--- temperature: 1.0
+,!.?!!!!?!!!!!!!!!’!!!!!!!]? !?!?!!!!!!!!!!!!??!!?,!!?!!!?.!??,,,]!!!]-!!!!,?!?'!?!,!!!!,!!.!, !!?!.]!!!,,?!?!,,!?,! !..?!! !!??-,!!??,]!,?!!-!! !?!!!!?-!!?,,!!!!!!! ?-!'???!,:!??,?,!!!!,??!!?!,!!!?- 
+--- temperature: 1.2
+?!- ?!!!!!??-?!!!]!]!,.!!?,!!,?,!- !?!!!,!]!!,!?!! !!!!-!,?!!?!,!!.-??.!?!'?-!?!?!!-!! ?!!?!,!?!?,!!!!.??.!'?!! ?-?!!!!!!?!?,!.!]?-!]?? !,!??]?!-!!?! ]!?.,?!-!!!!!!?!!!?,!?!?!!!!? ?!!!!!!.?,!?!?! !,!!
+
+epoch 22
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!,!?!!!!!!!!!!!?!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!?!?!!!!!?!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!?!!!
+--- temperature: 0.5
+!!!??!!?!!??!-!!!!!???!!!?!!!!?,-!!,?!!!!!,!?!!?!,!?!!-!!!!!.!?,????!!!!?!?!!?!!!!!!!!!?!?!!!!!!!?!!!?!?!!?!!!?!!,???!?!!!-!?!!,!!??!!!!??!!!?!!!?!!?!!?!!!?,??!!?!!!!!!!!!-!!??!,!!!!.????!!????!?!!!!!
+--- temperature: 1.0
+!,??,?-!?-,,!?.?!-!????!-!?!??,!?!!.?]!?!??!!!!!???.!,-!.!?,!!!!!!!,,!?!:!!!!!,,???!?!.!!.!!?!]?!!'!,,?,!?,!,!!,- ?!?.??,??,,!!!?,!!?,!!?!?!!!!,,,!?,.-?,-?!,!!?:!.,!. '??,!?!?!!.,]!.?!!??-!?!???!!!!??
+--- temperature: 1.2
+!!?!?',,?!!?!-?!],!,!?!.!.?! !!!!??,?!!.?,]!?.??!-???,'??!.!-!.!!? .,!!,?,.!],?!?!??,?!?!!!?!! !,!-?!!-!:?! :?!-?:,!!-!!,-,?]!'-!?'??!,,??.??'?!!! ??]!?,!-!!??.,.???!,?? .?!,!,!?’!-!? - .!!!???]? !!! 
+
+epoch 23
+
+--- Generating with seed: "not--you're not fired. yet. erin: oh!"
+
+--- temperature: 0.2
+not--you're not fired. yet. erin: oh! jim: no. jim: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. no, no, no, no
+--- temperature: 0.5
+ no, no, no. no, no, no, no, no, no, no. no! no! angela: no. no. no. no. no, no, no, no, no, no, no, no. no, no, no, no, no, no, no, no, no. no, no, no. dwight: no, no, no, i don't want to go.   jim: [in michael to the office on phone] hey, dwight. jim: hey. jim: hey. jim: hey. jim: hey.   jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. 
+--- temperature: 1.0
+. jim: hey. jim: hey. jim: hey. pam: hey. if no. holly: yes.  michael: mm! [on phone] he want the time out of today. jim: do you? darryl: are you there? phyllis: oh it was it. jim: hey. jan: why would you work on? michael: thank you, michael. michael: no, no. dwight: well, that would be just want to say i will say that hard night.  dwight: [re sorry about - angela: jan! michael: michael, it was the deal, uh, uh, i'll have it before you 
+--- temperature: 1.2
+, uh, uh, i'll have it before you guys because she was so good. jim: [to jim] have a life of. jim: mmhmm. oscar: told you? ryan: really? meredith: oh his way we all was. dwight: [to dwight's way her drink’] have the time out if that was guys. jim: yes guys! stanley: thanks. pam: [to jim] you're not talking to dwight, okay, let me say at the time. jim, but, it's ok, wait.  michael: maybe- jim: really? oscar: wrong with them.  michael: who, 
+
+epoch 24
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+?,?????????????,?!??????????!????!????,?,?????!????????????!??????,????,???!???????????????????,??!!?????,???????????!??!?!???!????!?????!???????!??????????!?????????!???????,?????,,???!!?,???????????
+--- temperature: 0.5
+??!?!,!?,?.!?????!,!?!?????? ,??,!?,???.??!? ???!'??!????!??!??,!????!?!????,?????..?!?,!!!????.!??!?!?? ,?!???!,?,,?????!??!!?!??.,.?????!!???!.?,.??,,,?!.?,,!? ??????!? ??!?, ?.!?,? !,!.?!?!,!?!?,!?
+--- temperature: 1.0
+. ?.?-?',-',,!.!!,!??,! ?.'? !,!? !??? !?.?!?,!,!,.?.,.,!.???! .,!.,???!'..-.!??!,,-??,, ?.!,,-'.??--!?.!,? ,?!-,,,,,?!???? -??!,,-,?!-.!,??,!-?, ,?,!,??’?!'?!-,,’,?.!,'?,!'’??'.?.?,'!,'!-.??,, .!, ??
+--- temperature: 1.2
+.!,?.?,,?!]'?.??. !!? ,',,,?,! ?:!?,??-,,,? ???! -,!-?,,!.'??.-.!.'?''., ?'!',?,! ?, ,!',-?.!.?!,!??'??,!!?!-,???! ?! . !!,!?,?!,.,.!',?.?  ? ?-?!,'?,!-?.!,-,!?.? .!?,?,’?..!?.,,?!.?,] .]?!]'?!,?]??,,
+
+epoch 25
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!????????????!??,!?????????!????,???!??,!?,?!??.?,???!??????!?????,?!!!?,?????,??!!??????????????,???????!?????!???!,???!???????!?!?!?!!?!!??????????????!????!?,?!?!?????????!!!??.??????!?.!,???'??!!?
+--- temperature: 0.5
+,?,,!?!,.?????.',?',!!!?!?,''!?!,!.???!??,,???.???,?'!? !.,???!!?,,!!?.?',??.???!!?!!?????'!?!,,? ??.??.! ???,??????,?'???!??,????!?,.????.!.. ?,????..!'!!???!?.?,',!???. ??!??.,??!!.!?,,?..,.??.!!,?'
+--- temperature: 1.0
+! !.'!,,.!?,'?..-'?, '!,?,]!!!-'!???,?- ,?    ??,!.?!?,,,!',!? -,?.,!'! ?!.,',!!??!'!'.,--!??!,..,!’. ?'?.'!???,,-!!!,!..'?'!?,??? .-!., ?.??.,!?? ,.  !!!.???.'-,,?,!,??!.' ?!?''.!'!!,?!???',!.?!!!?,.
+--- temperature: 1.2
+,!]!.!,??'!!'?  -,!,’!.?!,!.!].,?.'!,?? ?,'!,!-’.,!]!.!.?,,..,,?’''!!'?,.,,!!!-'’!-'!.?..!????!!'?,!,.!-??',!.-!-?!,!'????'.!?.?'?.’'!??-'??- !-?.??!?!?''??!?!!.?'?!?., !?!.!'-????.?,'!? . ?'?-,'!?'!!
+
+epoch 26
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+,.??,!????!,??,?,??,,???,!??!?,!?,!?,?!!?,!????,?,!,?,,??!,??,,!,,,,?,!?????,??,?,!!!??!,,?????,???!,!!???,???!!?,??!,????,,,?,,,??,??!,?,,!?!!??,!?!,,,,?,?!?.,????????,?????!?,,,??!?,?,,,!!,,,??!!,??
+--- temperature: 0.5
+??'??..?.,????!,???,??,,!!?,!,?!?,,?,?!?!?],??!.?,??,?,!?,!,,???,!??',!.,,.,',???-,?’,?,!?'!?.,??,??,!,,,,!.,,!,...,!,,!,?,!!.?,,?,.??,,!!,??,!!'??!???,?.!,?.!?.,,!,!,?,,,,!!??!?-!?,???!,!,!,,.’!.!,,,
+--- temperature: 1.0
+,!.!!!??,.-? ''.!''.!,!',!,,??,. ?,.,,?-.!?!? .,.!,’?!-?????-,!'.,?.',?!,,'?'!?,!,'!!!!!,?,,?,!, ,?!,! ..!.???.!!,,.'-'?,!-!.??.,?.,,?!’,,!!!??! -,??!!???,,,,!’??'?.!!'!!!!,?????,,?!?’!?,!?-,?   ??!-?
+--- temperature: 1.2
+,?,?',' ,!.. ?!,!.! ?-,'.?],? !?. ..!!?’'!,?  ,!!!,.!,]?!.'!!'!?!.!,?,.---!,!!,? ?.!?,?,!].''?,,,’?  ????,, ,?,’.?? ,'?,!]!,-,'..]???,-.!! ??,? ??!'??,!,?,!????! ?!.'???,??!,’-'...,?,,'!.,?, '??,?!??,
+
+epoch 27
+
+--- Generating with seed: "there was no cash prize. angela: yes! jim: "
+
+--- temperature: 0.2
+there was no cash prize. angela: yes! jim: no, i'm not gonna do this. jim: [on phone] okay it's a : the guy do for me in the office. michael: well, you know what you should. michael: i can't be in the office time and the :-- jim: okay. pam: oh, yeah. pam: i know what you should. michael: i can do it. michael: i can do it. michael: i don't know what you mean. i'm not gonna do it. jim: okay, i don't think it's a 
+--- temperature: 0.5
+jim: okay, i don't think it's a ]. [everybody, i just did it. jim: yeah. jim: i just didn't mean it. i didn't see the temp. michael: no, i'm not.   jim: i mean, i can't keep it up and because you don't know what you think. jim: it's not. pam: yeah. pam: i know, i'm not going to do this. pam: yeah. pam: i are not going to see you. michael: i don't know. jim: that's not what you know. i want 
+--- temperature: 1.0
+jim: that's not what you know. i want to do it. michael: we're gonna see that was no. pam: no. that doesn't get up for me. pam: yeah. i did. andy: well it's gonna be your of them for us. holly: [on phone] toby’s too scott. [everyone laughs] pam: you know, i will not do it. meredith: oh... i'm really good. erin: [they in his office]it   erin: yeah!   jim: who is my name? michael: let's get the warehouse and get's right out.
+--- temperature: 1.2
+let's get the warehouse and get's right out. michael: no, that's, if you do. it can he's job. pam:... just me. michael: we'll do it. jim: that's so true, it's not--- pam: i can't get the time. kevin: i'm here. kevin: i don't get him or you did! right. kevin: where? pam: [!... dunder mifflin, everyone: kevin] what you want to in!  michael: but i talking me dwight, i can do you guys really want it...    pam: 
+
+epoch 28
+
+--- Generating with seed: "all right, good, well this is what we have "
+
+--- temperature: 0.2
+all right, good, well this is what we have to come back. pam: i'm not doing this to my back. michael: i'm sorry. i'm sorry i'm not gonna do that. pam: [in her baby and michael walks in] pam: i'm sorry, i'm sorry.                  jim: what? michael: what are you doing? michael: i don't think so. michael: i don't want to come back. michael: i don't want to come back. michael: you know, i don't think so. michael: i
+--- temperature: 0.5
+you know, i don't think so. michael: i don't want to do that. pam: [same with jan] [laughs] michael: i want to go to you again. i'm the first guy. i don't know. michael: i don't think about this in there. i am in there. michael: what do you want to just go down? pam: all right, know, really be we get . but really be 0 more? andy: oh i'm sorry, i don't need to get some good to see you later. dwight: [to dwight] so we're 
+--- temperature: 1.0
+you later. dwight: [to dwight] so we're sorry. do you have this? pam: really?   michael: any day? deangelo: have ve! stop this night hmm. dwight: stop it! jim: see you later! pam: okay.   darryl:  ? michael: what is this? andy: well we need to go to the : when you in a !? jim: [over in in ' ' '] oh yeah, dunder mifflin, this is. kevin: oscar. can i take that out of my idea. michael: well, what don't just say about that. michael: what, ok
+--- temperature: 1.2
+don't just say about that. michael: what, ok. [jim . pam] michael: five minutes. creed: well.....  angela: thank you. stanley: i'm gonna do my job. dwight: i'm better to come with my desk... angela: [sighs, there's the : and work being here, well? i'm a ], there.  jim: jim. dwight? dwight: wait. just this? angela: come on. okay. darryl: oh... i'm a good. don't see you off the .. because you've been just have really all good.    
+
+epoch 29
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+,,,,,,,,,,,,,,,,,,,,,,,,,,!,,,,,!,,,,,,,,,,,,,,,,,,,,,!,,,,,,,,,,,?!,,,,,,,!,!,,,,,,,,!,,,,,,,,,,,,,,,,,!,,!,,,,,,,,!,,,!,,,,,,,,,,,,,,,,,!,,,,,!,,,,,,,,,,,,!,,,,,,,,,,,,,,,,!,,,,,,,!,,,,,,,,,,,,,,,,,
+--- temperature: 0.5
+,!,,.,,,,!!,,,,?.?,,.!,.,!?!,!,!!,!,,,!,,.,,,!!,,!,?!!,,,,,,,,,,.,,,!,!!,!,,,,,?,,!,!!,,,,,,,,?,!?,,?,,,,!.,!,?,,,,!,?!!!,!.!!,,!,,,,,,?,?.,,,!?,!,,,,,,?,!!!?,,!,!!,,,,,,!,!!..,,!,!!,,?,!.!,,?,,,!?.,!
+--- temperature: 1.0
+!,,, ,!?,!, ,.,...,,,?!,..?,! .!.-,!!?..,,!!,.,?,,.!,..’,,,,,?’? ?!! ..?,,?,,?! !!.,,’,,..,??,!!?,',.,?!?!,,!,,,!.! ,!!-,,,,!,,!!?!?,!!!,!,,!,??,,.,,!,?’,,,??,,!.,.!!,,?:!!.’,!.?,,!!,.,!!,,! ,,,!!?!!,
+--- temperature: 1.2
+ .,,-?,,,?.?,!! ,?!,!,,??  ?!',,,.,,!,!,!.,',,,,!,.,,,.!!’?,!?,,,,',??!!??,!,!?,!!,’’!,,,’!,?.,,,!,,?,,,!,!?,'??!,.'’,,?!.?!’.’,.',,,,?,,,,, .!?..!?!!,’?,',!,!-..’??,! ,!,,!,,.],,!?!,!!..?.,-.,!!.'!,'
+
+epoch 30
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+,,,,!,,?,,,,,!,,,,,,,,,!,,,?,,,,,,,,,,,,,,,,,,,,,,,,,,,,!!,,,,,,,,,,,,?,,,!,,,,,,,,,,,,,,,,!,,,,,,,,,!,,!,,,,,,,!,,?,,,,,,,,,,,,,,,,?,,,?,,,,,,,!,,,,,,,,,,,,,,,!,,?,,?!,,,,,,!,,,,,,,,,,?,,??!,,,,,,,,!
+--- temperature: 0.5
+.!,?!,,,.???,,.?,,?,!??,,??,?.,,,?,?!!,!??,,!!,?,,,?,,?,!?,,,,?!,,,!,,,,,!!,,,,.,?,,!?,!,?,,,!,,?,,,,,?,!..,!,,!,?,!!?!,,,,,,,,!,,.,,,.,,,,!!?,?!!,..,, ,?!?!!!?,!,?,,,??,,,.,!!,?,!?,,!,,!,??!!,,,,,,,,
+--- temperature: 1.0
+!!.?.!!,?!??.! ,,',,!!!?!,?,.,?,!,?,.!,’!?,!.!?,,? !,,!,.?!!.? .!,..,?! ,!!?.’,?!,? ,,??,??.!,,,.!,,,,?.,.!?,!,??!,!,’,!,..!..???,,,,!,.?!?,,!,..,?.,,,,!,!?,?, !!,!,?.,.,.,,,,??.,.?!.??!. .’,,.,!,,!,,
+--- temperature: 1.2
+', !!?!? ?,,!!??!!?,?!,?!,.?,-.?,!?,!.,?,,.!.! ,?.,,?!’?,,, .!.,,,!!,,.!!’,? !!,?,,.,,,,.?!,?!?!, ?,,,,!!,’!,.?,?,?,.!,..,, ,,!..,?'!?.!!.!!,,''.,?.?!,!,,.,,,,,’?],,.!?,!.!!?.! ,?,.!..,,?,,'!’,,! ,, .
+
+epoch 31
+
+--- Generating with seed: " it was yesterday.  jim: [jim and dwight sitting"
+
+--- temperature: 0.2
+ it was yesterday.  jim: [jim and dwight sitting at erin's mom been the to do that. michael: i don't know what the :? jim: i can't do that. michael: i can't go. michael: i don't know. i'm not gonna ask you that i can get it. dwight: jim. dwight: [to jim] what are you doing? erin: i can't do that. angela: i don't know what that i would i. i'm not . and i would i do that. michael: i can't do that. pam: i can
+--- temperature: 0.5
+michael: i can't do that. pam: i can't get it. dwight: dwight. dwight: what are we work to do that? michael: [! thanks.                       . jim: okay. dwight: [sighs] jim: [in the phone]   dwight: oh, come on! [. jim and michael gets up dwight to michael] how are you? michael: [to andy] i would never ever -. andy: i'm not gonna say it to get to the time. andy: [to ryan] i would like that to talk to you.
+--- temperature: 1.0
+ ryan] i would like that to talk to you... you doesn't make the news. i'll just having a phone be that do something good, ok? michael: i love you really no paper. michael: please? michael: how could we a news! erin: come on here! ryan, just be this with toby is? jim: no one i'm sure this would in a big day. ryan: [them leaves] um. michael: oh, yes. oscar: michael, we should just! stanley and michael -. they're not the :. dwight: yes, one have you in here.
+--- temperature: 1.2
+ :. dwight: yes, one have you in here. michael: yeah! michael: so we all have this company been here on the to job? phyllis: maybe you're going to be a assistant to dwight, but we’re gonna come back home now. angela: we didn't think that all to have we need all at to, so we know that... yeah. he would be over michael back out. i'm good. pam: i'm fine. jim: okay. pam: so what would you get some, and i get it? dwight: we tell your room. how should we
+
+epoch 32
+
+--- Generating with seed: " you mean?  eric: so, the staff? toby:"
+
+--- temperature: 0.2
+ you mean?  eric: so, the staff? toby: yeah. michael: i think you're going to be the best to be the last work for you. michael: no, i don't think that i would have to do that.  pam: how are you doing?  pam: i am so sorry about that.  pam: i am going to be the hour.  michael: i think you need to go to the mall? pam: yeah. michael: i don't think that's 00. michael: no.    pam: i think you should be the best to be the hour.
+--- temperature: 0.5
+think you should be the best to be the hour.  ryan: i would be a hug.              , i is. jim: what do you think that hmm? dwight: and some friends? jim: [over phone] hello? michael: oh, my god! michael: okay.  andy: yeah.  dwight: yes!    ryan: [on phone] hello. ryan, you need to be in the  ’s '" are you doing?  erin: [on phone] i'm going to come back. michael: oh, yeah, i can't give it at me. jim: oh
+--- temperature: 1.0
+ i can't give it at me. jim: oh, yeah, okay, but, i had a minute in. thanks for me. jim: well, it got good to you. pam: yeah. i can .. pam: okay, i went so much time michael: ... i. pam: [car camera] this work, please need erin: this is  ? who are you... not.     ryan: come back... pam: okay.  dwight: [on phone] hi, hey!. jim: hey. pam: hey! [m up to on, very ha! oscar: hey, hey robert. 
+--- temperature: 1.2
+ on, very ha! oscar: hey, hey robert. ok. pam: hello-’ all know what!  michael: look at two. you know great, but around. i'm any man, when are you sure do this. pam: because, it's hard now!  stanley: well, do you like if in you?  kevin: that was not coming back.  jim: great.  michael: okay. pam: thank you.  michael: yeah. michael: no, we would not. and stupid. but did you see that? pam: no, no. kevin: no. they's still have to in, dwight.
+
+epoch 33
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+?,?,,??,,,,,?,,?,,,?,?,?,,,?,,,,?,,,,?,,,,,,,???,,,?,?,?,,,?,??!?,,??,,,,?,,,??,,,?,??,??,???,??,,??,??,,??,???,,,,,?,?,??,,,,?,,?,,,,,,?,,,?,,,,,?,,??,?,,,?,??,,?,,,?,,?,,,,?,?,?,,,,,,,??,?,?,?,,?,,,
+--- temperature: 0.5
+???,??,!!?!?,,,.,.,!,,?.??.?!,?,!,?,,?,,?,!??,,?.,,?,,,,?!!?,,,?!,,,?!?!,,,,,,,,,,,,!,!?.??,,??,,???!,'!,,,?,,?,?????,?!??,???,!????,,?,,,??!?!,, ,?!,,,,?!!?!!?,,?!,,!???,,?,?,??,,!,,.??,,!?,!?,!,,?.,
+--- temperature: 1.0
+,.,-!,!?!!!??,!?!,, .! .,.,!?,,.??, !!.?,,?., !,?.?!!!?????,!,!’!?..,?.!??.?.?’,,!,.,,?,!,?? ,?!??,,?!,?!?,?!,?!!!?..!!?,,?,,,?.?,!,!.,?,,!?!,?,!?? ,??,',!!,.!?,?,!.!.,!,,,?,!!,??,!!.?!,?.,,?.!????,,!
+--- temperature: 1.2
+,!!,?. !?'??,,?'..?,! ,,,?!,? !,.???!’??,,? !?!?.,... ?!,??!, ?.!.??..,,?,??!?!’!!!?,,?.-?,,?.,?.!.-? !,?!.,,?.!?!,?!!'.,!,?!,,!??, ?,?.!!!?? ,.!,?,!.!?!!-?',’!-,'’,?,,?,?,,,,,,,,? ., ,?!,? ?.!!,?,?!?
+
+epoch 34
+
+--- Generating with seed: ". we all got problems.  andy: hey, gabe "
+
+--- temperature: 0.2
+. we all got problems.  andy: hey, gabe oh? michael: oh.   michael: oh my god, what are you doing? angela: no, no, no, no. michael: okay. michael: okay.                                                                                                                                                
+--- temperature: 0.5
+                     ...   pam: [on phone] hey, hey, hey, it's my office is a lot of people really going to be just me for your good? pam: oh, yeah. pam: you know what? pam: no. it's not me.                        . jim: oh. andy: yeah.   jim: hey. i wasn't and an hour.   oscar: that is not going to be my good to see you at this is really nice of you.     
+--- temperature: 1.0
+ at this is really nice of you.         kevin: can you see that? darryl: i'm so much, you have something to the bathroom in my head of pam and's the... michael: if you got her just's supposed to be the woman see what we got an hour. pam: yeah. michael: i know it just- [re on phone rings] oscar: yes, if you just don't give it. jim: and it's nothing about to see stanley, i don't get over.     erin: yes. oh, that's a good! pam
+--- temperature: 1.2
+ erin: yes. oh, that's a good! pam: i have any new in in here.   toby: i didn't even saying how do you going, pam? so... i have to - jim: so, guys, just all... is this it. from!  pam: hey. jim: hey. [going at he not up at going? stanley: he said they made right back.  meredith: [on phone] 'dwight:  ! how-no his day! pam: this is enough with his hand. i made it at your office was ’! it is.  jim: that is 
+
+epoch 35
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+,,???,,,,?,,,,,,,,!??,,,!,,,,,,??,,,,??,,,???,,??,,!,,,?,,??,,,,,!!?!,??,???,,,,,?,,,,,?,,,,,,,,,,?,,,,,,,,,,,?!,,,,,,,?,!??!!,!,,,,,,,,,,,,,,,!,,,,,,?!,?,,,,,,,,,,,,,,,,,,,,?,,??,?,,,,,,??,!,!???,?,,
+--- temperature: 0.5
+!,!???,,,,,!!!,,,,,!!,.?,,?,??,,?!,!!!,???,!,,??,,,,?!.,?.?!,?,,,,,,?!,,,,?!,,,,?,,,,,!,!,,!,,,,?!?,??,,!,,,??,?,?,,,?,,!,!?,,,,?!,?,,?!,,,!?,!!,?,,,!,?.?,,?,,???!,??,,!?,,,,,!?,??,??.,,,?,?,!,!?,!,?,
+--- temperature: 1.0
+,?,'?!',,??.?!,,?,! ,,??,,!?!?! ?,,??!?!?.?.?,,.!,?.!!,!.!,,,,,,,!,.?,!?,!.???,!?.?,?,?!!,!??!?.!? , !,?.,.??!!?,,..??.!’,?!?,,?',??!!,,,?!!,!.,,,!? ,,!,?,,,,,.,?’?,??,?!?,??.?!,??’,. ?,.,,,!,??!.,!!,
+--- temperature: 1.2
+ !,.]’??,?,!!,!??,?-,?,!,’!!,,,?!.,,? ,,,!!,?,,!,!!?!’,!-!???. ??,!???,?,!,??! ,.,,?,,,!. ?-??!!,!,.,!.?!.!,!,!?,,?,.,,??.,,?,,!,? ?' !?,?!?.!, ?? !,!!,,...?!..,,??!?,,,,.!!,!?,???!?.,?!.!??,,,,,,,!??
+
+epoch 36
+
+--- Generating with seed: "about meredith was it. you and erin are broken up"
+
+--- temperature: 0.2
+about meredith was it. you and erin are broken up. dwight: what?    michael: hey, how are you?                  jim: [over phone] [over phone] you are a :?  michael: oh my god, so i just don't know if i don't want me to do. pam: i don't know. i don't know if i don't want to do that way for me. michael: no.   michael: [ , so the hell i should go in his car in the office thing my first way in a thinking
+--- temperature: 0.5
+ in the office thing my first way in a thinking dog. michael: no.   dwight: [laughs] it's not my thing. dwight: yeah, i thought you were a serious. dwight: that are not. roy: that’s not what i can do. pam: oh, good.   michael: [whispers] okay. dwight: alright, good.   dwight: thank you.   pam: [to camera] what is that you mean? jim: oh, yeah, i don't know. i want you to make it.                 pam: [laughs] it's not a
+--- temperature: 1.0
+      pam: [laughs] it's not a box. andy: i can't say they do. pam: tell him my desk: michael, michael. thank you. andy: well, where'd you say? thanks.  andy: you would just have this. am i here? guys guys, andy? stanley: um, alright, just take michael in? yeah. dwight: yeah, guys? dwight: that was just don't. oscar: why was she has a shake have you... michael: was i come? michael: i don't know. i think what? meredith: oh my god. erin: thank
+--- temperature: 1.2
+ think what? meredith: oh my god. erin: thank you. holly, i can see. uh, yes. meredith: where is everyone?! jim: yeah... dwight: take a office?.. there with the box? three has years at my good! andy: how happened that? ryan: i said that was you in a office is office, i just don’t know. roy: yeah. hey, when did kevin: i do this man with us that in years. kevin: can that again? why don't you think darryl for your life have your than.. it's just care, but 
+
+epoch 37
+
+--- Generating with seed: " yeah? yep. well, pam is cute. jim: "
+
+--- temperature: 0.2
+ yeah? yep. well, pam is cute. jim: i don't know. i don't know if i can do all that i can put the coffee. i'm not going to go to the hospital. i'm not going to go to the , about that. michael: [laughs] i don't like that.   michael: [laughs] i'm sorry. it’s not a :? michael: oh, yeah, it's not a ..   michael: [laughs] jim: oh, it's not a ..                  angela: what? what is 
+--- temperature: 0.5
+          angela: what? what is that we mean? jim: yeah, i'm not gonna have to go now. michael: come on. [laughs] he was just sit in the after the first office. meredith: yeah, you can see that no way. [to stanley] hey, hey, hey, hey, hey, hey, hey, hey, thanks. kevin: oh.    dwight: [to stanley] [michael phone to michael] hey, jim, can i see you later? michael: thank you. michael: okay.  andy: i don't it. jim: no, it would be fun
+--- temperature: 1.0
+don't it. jim: no, it would be fun. sorry. it’s a ’ anything. it don't michael: [in phone] there ll be you up, andy? this time off the coffee. michael: thanks. dwight: no. [dwight leaves] michael in did this thing, you did. jim: i think this is to ask now he not just want your place too. dwight: oh my god, oh it's the yup. jim: hey. jim: oh, please talk good. michael: [at-"i'd  andy: really? dwight: oh, no, no, you have here no?
+--- temperature: 1.2
+dwight: oh, no, no, you have here no? pam: [to dwight] there’s a ! and, wait. i'm not. cool. thanks.  angela: i don't to've never heard you take that party. get out of her, tell her.   stanley: dwight and dwight is going to first friends, good face. carol: then  , we should be it. jim: yeah. jim: oh, your mom, but that can't never play there's you the wallace of one. dwight: ok, oh look, that’ve not you talking about it. michael: maybe. why 
+
+epoch 38
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+?????!?,??????????!??????,??,?!?????,???????????????????????!?,????????????????????????????????????????????,??????????????????????????????????,?????????????????????????????????!!??????????????????????
+--- temperature: 0.5
+?!??'???!,??!?????!???????,!???,????????????!???,??!???!?!??,,?!?,,???,,??'?,??,!!???!.?????,,??????.??,,?!,???!??,!,??,,??,?,,????,????????,??,????,!??,!??????!,??,???!,,??,????,??,?.?!,?,?.?!,??????
+--- temperature: 1.0
+???!,.!,?!,!?,??,??,?,!??’,'?.!'!??,?!,??’!???,?!,,??.??,?,??.,!?'???!-!!,,???!,!???,!!!?????.!’??!'?!?!??.?, ?!!, .!?????,,!?????!???,??!!!,,??????.?,??,!??.,-,? ’!,???,??!?!,.?,?,!!?.?,,!!? ?!??,,??
+--- temperature: 1.2
+ ?!,??,??!!,??,,?'?.?? !!?!!!,,,-?,???!.',.!,,???.?’,!,,???,?'!?!'?!,?!?’,., !,?,?!?,??????’?,.?!??,?', !?,?!,?.??,,.,?'-,.,!,,,??'-??.,,!'???.???!,.,.??,??,,,!?!!,!?. ,?,'!??-??-???,?’,,,?!?!!??.,, ?
+
+epoch 39
+
+--- Generating with seed: "creed: sometimes it's best just to say out of"
+
+--- temperature: 0.2
+creed: sometimes it's best just to say out of this guy. i am not going to be just the than the ahead. pam: oh, yes, i got it. jim: no one got it. michael: oh, yeah.                                                                                                                                       
+--- temperature: 0.5
+                                                                                                                                                                                                                            
+--- temperature: 1.0
+                        darryls back enough car! told me with. dwight: but look!   what are you doing? erin: yes! i'm gonna be, there. ryan: and we're the box. ryan: okay, here?   dwight: well, what you should go call, uh, i should take get back to your back you. [they laugh] this baby, but i feel pretty true. jim: ok, nice. let me have a  . okay. [to kevin] so... you... michael: no, no, pam, i didn't
+--- temperature: 1.2
+.. michael: no, no, pam, i didn't call your called laugh.  andy: it's we. dwight: [looks at, right his baby] she went over and've be you thinking about the t that have to ask me you could see the ahead. and pam and what hello? pam: yes. dwight: no.  andy: hey! okay my job, well what want to get fun. thank you, but thanks dwight. jim: alright, really? oscar: love all-         erin: i know. have to face! jim: one new york. too me how much 
+
+epoch 40
+
+--- Generating with seed: "s just forget it. david: good. [michael leaves "
+
+--- temperature: 0.2
+s just forget it. david: good. [michael leaves camera] it's gonna be my desk. pam: [. time to make pam] you can see she would be a good time there. michael: [laughs] michael: [michael door] [to andy] michael: [michael gets up] [michael gets up to the office] get out of here! jim: oh, pam. pam: yeah, yeah. pam: [to andy's office] hey! hey! hey! hey!  jim: hey tuna! i know what you're going to do. michael: i know, i know, i know you would have 
+--- temperature: 0.5
+i know, i know, i know you would have something to make of one of my time, hey, hey. it's a second is not a : -. dwight: okay, guys. i'm going to want to talk about that that you alright? pam: you can’t be it. dwight: i'm going to take you in the door. jim: michael, you are going to be in the new the new ’] dwight: it's going to be the stupid. michael: yes. michael: no. dwight: i know what you should. ryan: i'm going to say something 
+--- temperature: 1.0
+you should. ryan: i'm going to say something to mean you want to get you there? jim: sure it, pam. stanley: well... he has to tell you up for for the party.  ryan: [on phone] i had you! david: i will put it out of my time.  michael: hey, erin... dwight: hi, michael scott, it was here because you really want this deal about we're a way that i been here. we got a back my day. jim: sure. meredith: but... stanley: really? roy: what?! michael: i can
+--- temperature: 1.2
+ stanley: really? roy: what?! michael: i can’t be not it. andy: yeah. i came and to let that. think it would be your friend. i'm going to hear a own time. michael: i think he's the night? ryan: thank you. kevin: and there you can make a second be doing a good.   erin: well, it was because to take it one so way. meredith: i feel like any of you so second ryan a back, come on with you. toby: no. [laughing] yeah, really? phyllis: oh, god, or...
+
+epoch 41
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+,?????!??,!??!,?!??,????!?,???????,????????????!?!,,????,??,?,!?!?,,,,!?,,!??,!,,??,,?,,??,?!!?!?????????,??,?????,???,,????,!,?????,??!????!??!??????!,????,?????????,!????!???!!??????,,?!??,???,???,?
+--- temperature: 0.5
+???,,!,?,,??!??,?,?!,??,,?,??!,,??????,!,,!??,?!,,?!,,!!???!??!?!,?,,!!?!,?,???!,,’?,!??!?!,??,,!,,!!,,?,??.?,??.!??,?,?!,,?’?,,,?,?,,?,!,?,,!,,!,.???’??,!.?!,!!?.??'!???!,?,?!?,,??,?!?,??!??????!!?.!
+--- temperature: 1.0
+,!!,?.,’?,.’?,,,?,!! , !??,??!!?!?’!??-?,,’!’,,!’!!,!??,',?,?,!!’!??? ,,,?’,!!?.??,.?,?!!?,?,.,!,,?',',’?!!,???!,,?,!'..,,!??.?!,!????,,!,??!-,?!,,’’!??!,.,.,!,??'?,!,!!?’,.???.,?’??,-?,'???.?-, ,,.,,
+--- temperature: 1.2
+ ,’?!?!?,,!.??,?,??',.,’’,?!!?,’,?,?,?,,????'? ?!,'’??,?,.!.!.’!!?!-’.!!?,????,,? ,!!!?!??’ !!!’,??’’,?’,!-!’!’!!?’!,!'!?,??,!!?.?,?'-?!.!!,,!,,,???,? .,,!!-?!.?'!,??'.???',-.!,,?,,’’!!?!!!?!',.?,?!,!
+
+epoch 42
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+???!?!!!??????!!,??!,?,,??,?,!?,,?!?!!???????!,?!???!??!?,?!????!?!?!?????????,?,??????????????,!??!???????!,????,!??,??!!??,???????????!!??,,!??!!????!??!??,??,!??!??!!!!??!?????!??!?,?,,!????,?,?!?!
+--- temperature: 0.5
+!?!?!?,?!,!!!??!!!!.?!?,!?,?!?,’,,,!?!?,?!,,!?????!?,?!’,??!,????,?-??,,?!!?,!!!!!?,?!,,??!'!?,??,,!???,!!????!,,!,!?,?,??!?!,,?,!???.!???!?,!?!,??,!!!???’?,??,?????,?!!!?,!?,??!?????!!,!?! ?’!!,!?!?,
+--- temperature: 1.0
+?!??!!,?'!].!.’?!!?'-,?’!,,???!!.',-?!’??,??!,,?.?,!..!’?!!!!’'?,!!?’’’.??!?!?  ?!,,!.!?,?’!?,,!?!!.,??,?’'.!,,!?!!!’?'’!!?’!?,?'!?!,’,!???’, ’??'???!!,!.,,’,,?,,’!?!’.,!??!!??!??!.!?,?!,'!????,!’ '!?
+--- temperature: 1.2
+!]’.’’?!'?.!!,,,!,!.,’,!?.'.’,!!,,!?!’!’!?,!??,??,’?,,,??,’.!!??!!?,!-.?!? '-??!!’' ,!!!.?,!!?- '!???!??!,!'..,’’,,'?,'?’!???,??’??,!?’!?,?!,.-!'.?!.??’!,!?!,.,,!!’???,!!!! ??!',?’??,?,?’?!,’?,,,?’?,'
+
+epoch 43
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!?,?!???!??!,!!?,??!!??!?!!!?,!!?!??!?!?!??!?!!!!!???!!!?!??!???!!!??!,,!????!!?????!?!!!??!!?!?!??!??!?!???!?!!!?!!!??!,??!??!??!?!?!??,?!?!!!??,,!?!!!??!!?!?!?!!???!!!?!!!??!!!!!?!???!??!!?!???!????
+--- temperature: 0.5
+!?.!?!’,!!’??!?!!!?,!!?!??,??,,!,???,??!,!!?!!,??,???!’??!!,’,?.!,?!??!??!?,!,!!,?!!??!!,?!??,?,,,!??!?!’?!?!!!?????!?!?,-!?!!’???!?!?',?!?!!!,!!!?,!??,??,,?!?,!!,!?’!!!!!!??!!?!,?????,?!!!!!!??!,!!?!
+--- temperature: 1.0
+,!’?!??,?!?!,???!!,-!?!,,?,,,?!-'!'?!????,?!?,’'!!,,!?,!!!????!,,.?!?,?!!.!’,?'!?!.?!??-????’!!?.?,,’!’!?!,?!?!!,?,--!,!!,!????!',?.!?’,?? ??’!!,’!!,!!!!!,,,!.!’?!!!?!!!!!??’.’.’?,!,?!!.?!?'?'!???,.?,
+--- temperature: 1.2
+!?,!,,,?!??’?!,??. ..,?.?,?’?--’?.,,'?,!.!???’,!!,?,,!?.?!?,?!-!,?’!???!,,?,?',,,’’!!.,!,!'.?!-???? !?! !??!’!'?.?,,'?!??!!!!,.!?,!!,?!,!’?’?,!’,’,’??,,??,?!’,’!?'',,!,,?!,.’????’’?!?!’’???’?!!’!,?! -
+
+epoch 44
+
+--- Generating with seed: " okay, some for, some against. jim: nobody's"
+
+--- temperature: 0.2
+ okay, some for, some against. jim: nobody's to a little bit. michael: no, no, no. no. michael: i don't think you're gonna get it in your desk. pam: i don't want to get in there. michael: oh. andy: yeah.  pam: i'm sorry michael michael: i don't think i should call her to the new you can't get it. michael: i don't think i should go to the hospital. dwight: no. michael: no, no. no. no! no! no! no! no! no! no. no! no
+--- temperature: 0.5
+ no! no! no! no! no. no! no! no! no! no! no! no... [she and s not a cup! jim: this is dwight. pam: you know i can't do that i can't say it. michael: i get it. michael: i don't want to do it. michael: what? michael: what? michael: no, no. michael: no. michael: okay. dwight: okay. michael: okay, i'm sorry. i think you're gonna do that in this is my idea. it's not my things you're gonna be very much. michael
+--- temperature: 1.0
+not my things you're gonna be very much. michael: okay, you know what you said all with my name out!   dwight: okay, you don't want to tell me of this my job...  kevin: there you go. andy: what? michael: i probably care about me really have it to you, like 0:000 now to her back. i feel sorry i'm not just be a second. jim: i didn't call me to it.  andy: how did they do all that else [? michael] it's gonna do a bit that we do, michael
+--- temperature: 1.2
+it's gonna do a bit that we do, michael. it's a good idea, not because the sweet your thing is. michael: i don't be, that's what we'd good. you can do at a desk?  michael: wait, i'll pam. [  that is not a jump the second, dwight. what was this one place? michael: oh! jim: oh! phyllis: ok? here! andy: you go out? pam: ok. see i did need to see him. andy: great. how is that that? jim: who just me? michael: had -! me my
+
+epoch 45
+
+--- Generating with seed: "s the family boat! andy: right? erin: i "
+
+--- temperature: 0.2
+s the family boat! andy: right? erin: i can't go in. andy: i know that was a kitchen in the . of things. jim: okay.   pam: [on phone] it was a : in the office of time.  andy: [to andy] [m god things away and "that re! re the knows creed!  jim: oh.  jim: you have to get back for a photo, and we could get him like this. [dwight hangs up]   jim: [on phone] i know you know what you're doing here, he was just have a little 
+--- temperature: 0.5
+'re doing here, he was just have a little going to be your new in a little so really wrong with this is not going. michael: i don't know that i didn't have to go. pam: [on phone] [they head out of the : in jim like a little for a walk is a camera, dwight. dwight: okay, so you got it for a good more time. jim: i like that a throat it.  pam: oh, i'm not gonna go. pam: okay, let me go back off. jim: [on phone] i have a camera.
+--- temperature: 1.0
+off. jim: [on phone] i have a camera. now, from pam.   jan: michael, could i talk to him? pam: oh! kelly: [ll just in his big than the check, so, kelly just go in a playing of your drink. never. pam: [on phone] you can't be going to go off. pam: what am i going on? darryl: i have a lot of long? michael: um, what are you doing here? michael: yeah. phyllis: i do you in the office, can i? jim: i just want to go. i don't 
+--- temperature: 1.2
+jim: i just want to go. i don't have to have a question. darryl: good. get up, all this? erin: can i go? phyllis: move your big job. what's the phone with. [jim s door]   pam: [pam and jim] [walks back in his office in the hospital? pam: okay, pam. pam: okay, uh, well, he has it is not that time for a time.  pam: hey, gabe, who is wrong with me still this warehouse so, pam thought that is andy, dwight. jim: ok, i'm... come on
+
+epoch 46
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+??!??!!?!!?!!??!?!!!!!!!!!?!!?!!!!!!?!!!,!??!!?!??!!!?!?!?!!??!!!!??!!!!!!?!!!?!!,?!!!!!?!!!!!!!?!!?!!!!!!?!!!?,!?,!!?!?!!!!,!!?!,!,?!!!?!?!!?!?’!?!??!!!!!!!?!!!!!!!!!!!?!!!!!?!!!!,!!!!?!?!!!!!!?!!!!?
+--- temperature: 0.5
+?!?’!!!!!?!!!!!!’!,’?!,!!?!!’’!?,’’'’!’’??’,’?!?!?!!!!???’,!,!,!!!?!?!,,!!?!!!!??.,?,?’’’!?!!?,!’?,?’’!!?!!!!,,!,’?,?!!’?!’!,!!!??!!!’’?!?!!!?!,?!!.?!?,,,’?!?!!!?,’!?!!!!,!!!!??!?!!?,’?!!!!!!,!’!?!!,?
+--- temperature: 1.0
+?,,!!’!??.?’!!?!?,’!?]!!,?,-,,,!??’!!!,?!!??!,,!?!,-??!!'!!!?,?,!?!??,?!.!?!’,’!,!?????],,.!?!,??!!’..?,’?,!,?!!!?,!!?,!!'??,'?,?!,???!!?’?’??!-!’!’,]’?'!,'??!,?,?!!,???' !'’',?!]!!!,??’!.’,??!?,!?,?,
+--- temperature: 1.2
+’.!?,,!!’''’,!,?!?!-'!,!?,,!?,!’,’’??! ??!,,!!,-?,!!,!??’!’!!!!?!?’?? ,??-!?!?!,?,!'!?!,!’-!??’?,!'’!!,’???,?’!?,?!,’!!!.?,!!!!,!!,?,,!!?]??!]!?! !,’!’,..!’!!,?, !!?'.!,!’’!’!!!,’!??,!,!?,’??.,????..!
+
+epoch 47
+
+--- Generating with seed: ": alright. michael: pam, would you smell my breath"
+
+--- temperature: 0.2
+: alright. michael: pam, would you smell my breath] jim: what is that? dwight: what? darryl: what? darryl: what is ''s like you to do that? jim: no, no.    jim: what are you doing? dwight: what are you doing? pam: i don't let me to you. michael: no. no! no! no! no, no. no, no, no, no. i'm not going to do that and we were in the hospital. dwight: what? jan: what? meredith: oh. pam: i don't think that ryan would put my you
+--- temperature: 0.5
+ i don't think that ryan would put my you was it and i want to go to work with you. michael: i just don't want to make it in your other thing about that? oh my god.    dwight: what is ', dwight? dwight: yeah, now.   dwight: he can i do all and, i’m on. meredith: how are you doing this? ryan: i'm not gonna do it. angela: yeah. i did. it is all you want to you one. jim: no, he’ll help you. angela: you did it! good. michael
+--- temperature: 1.0
+ help you. angela: you did it! good. michael: that's the problem.  michael: well, you do. michael: oh, yeah.    michael: yes. oscar: well now. pam: [laughing] i know how it is? stanley: thank you. phyllis: you don't need to make in home. angela: we’re going to go to go. stanley, ryan. i was okay? oscar: yes. so will you know that you are the tomorrow? erin: oh. i am more than it for you to stop. michael is see the break. ryan: let's do do like 
+--- temperature: 1.2
+see the break. ryan: let's do do like to tell you this one. michael: i am here. [", i'll just make you home. andy: everyone’s right is my hour. pam: yes! [is nods to dwight] let's do anything. dwight: hey dwight. pam: okay. pam: michael! angela: it... are you okay? dwight: yes! andy: no! angela: and what do she does. let’s get back to me by and he's new. kelly: dwight! you got a good one? andy: that’s for. pam: no. i’m 
+
+epoch 48
+
+--- Generating with seed: " dwight is not the manager yet. jim: no, "
+
+--- temperature: 0.2
+ dwight is not the manager yet. jim: no, no, no. i don't think i could you guys like that.           darryl: hi.                                                                                                                                                              
+--- temperature: 0.5
+                                  ,. what... michael: what? michael: that's a joke. michael: yes.     pam: thank you. pam: i don't know.   dwight: oh, come on. dwight: okay, can i talk to you for a big of his my room’s a good idea. i can’t do it. dwight: will do.  pam: what are you doing here?   kelly: [whispers in his office's office] what do we have to do that? jim: what? michael: i
+--- temperature: 1.0
+ have to do that? jim: what? michael: i'm coming. karen: [d] michael: are you thinking? dwight: [? to, okay for holly, i love it! michael: you won't? michael: well, it doesn't. so she won't. michael: in me. not things. you gotta be just be still good are out. dwight: [to jim] [michael walks away] oscar: she's like i got it.       kevin: dwight, just a watch. i’m right! it can't go on that. andy: yeah, not not ten years. dwight! 
+--- temperature: 1.2
+. andy: yeah, not not ten years. dwight! michael: all right. pam: oh! say how... jan: ok. okay. [you laughing] jim: so's say that you're kidding.   jim: do i care? dwight: yeah, um did. you doing that! pam: thank you, we're gonna keep it back. michael: all right. michael: oh god she. she's fine, what the hell? michael: do you go. jan: it's- pam: [laughs] is that it?  jim: that can. that's 0--- michael: sure. ryan: i.. 
+
+epoch 49
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’’!’!’’!’!’!!’’!?!!’!?’’!!!,!!!’’’’!!!!!’’’?!!’’!’!’!’!!?!!’’’!!’’’!!!!’’’!!!’!’’!!?!’!’!’!,!’?!!’’!!!’’’’!!?’!!’?!’!,!’!’’’!’’!?’!!’!!’’!!’!!’!’’’’!!’’’’!!!!’’!’!!’’’?’!’’’?!’’’’’!’?!!!’’!,’!’!!!!’!’
+--- temperature: 0.5
+!’,!!,'!!!’!?’’?!!!?’!!!’!?’!!?,,’’’?’’,!!!’’’!!’?’?,’!!?!,???’?’,!?’’’’’’ ?!’!?,,,,?!’!!’!!’?!?,?!’?,’’!’’,’!’!?!!!’?’?’!’,?’!!’’?!!’’’!!!??’’,!!’!!!??!!?!,!’’’?!?!!!’!,!’’’’?’!’!,’?’’??,!’,’,’’’’?!!
+--- temperature: 1.0
+’’?!’?’,!?’?’,-!’!,!’!’-?!??,!’,,!,?’’,??!!!?’,??,!’?’’!’?,!!-!!!’!,’!!!?’!’?!??,?!?!??,’’’’’?’’’?,?!,?’?’’!?,?!,!!!?!'’’.’!?!!?!’!??!’!?!!?!?!’’!?’!!,,’,,?!?,-’?!!!!!’!,!’!’’,!,.!!’’!!’’!!?’,’’'?’’!,
+--- temperature: 1.2
+?’?,!’’'!!’’’’’?!,!?-!,.!-’.?,’’,’?,'’.’!’!’'!?!’,!.,’,,!’,!’’.'’!.'.!!’’,-’,?’'??',!?!?.!,,.?!!],’-’!?’’?!,’!.!’????’’!’,’,-,'?,’’-??!!!’!??’!!’’,??-!’!!,??’?’?,’]?’,’?',?,’!!’’,’!!!!!,?’!?’ '-!’’’’.
+
+epoch 50
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!,’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’?’’
+--- temperature: 0.5
+’’’’’’!?’’!’’’?!’?!’’’’-!!’’'’’’!’’!’’?,?’’!’’’’’’’’!?’’’’’’’’’!’!’’’’’’’’!’,’’,!’’’’’!!’’!]!’’’’’’’’’!’’?!?!!’!?’,’’’’,’’’’’’’,’!?’’’’?’’’?!’!’’’’’’’’’’’’!,’’’’’!!’’!,’!!’’??!’’??’’,’!’?’’’!!’’’’’’’!
+--- temperature: 1.0
+?’?!?’!?,’’,'?’,'’?’!’?!,!’, !’!’!,’!’’.!’!’’!!!’'!’’’’!’’’, !’’,’’!,’,!?!?’’’!!’?!’’’?,?’?’’?,!’,,,?!’’’',!??’,?!?!!?’.’’’!’,!’,?'’!’,’!!’’’-’'’!’’’,!,’!’,?’’!??!,!,!?'-’’’’!!?’?!’’’’?’!’’?’’!’'’’?’’
+--- temperature: 1.2
+'’!, ’’?!’’’!’!],!,’’,?’’’!’!’!?’,’’’!!’!'’?’?’-?!’,’’!’,’!’!'?’,’?!’’’’?!!’!!!’,’’,.’’!’,!'?,,,?!-]]]’’,?’!’!?,’!’’’?’!??.’’,?!!?',!’,!’’?’’,’?!’?’?,.!,??!’,!!,?,’??’?,]!,’’!,!’?’''’’’’’’!’’.'!,]??,’
+
+epoch 51
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’’!’’’’’’’’’’’’’’’’’?’’’’’’’’’’’’?’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’!’’’’’’’’’’’?’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’?’’’!’??’’’’’’’!’!’’’’’!’’!’’’’’’’’’’’!’’’’’?’’’’’’’’’’’?’’’’’
+--- temperature: 0.5
+!’’!!’!’’?’!’’’’’’’’!,’!’,,!’!’,?!’’!!’’’’’,?’,’’’!!?!’’,’’’’’’!’!’?!’’!?’,’’’’!!!’’’’!,’!’!’!?’’’’’’!’!’’,’’’,!?’??’!’!!!,’’!’,'’?’!?’’!!’’’’!’’’’’!’’,?'’’!’’’’’!’’’’’!’’!’’?’!?’’!’’’’’?’’’!,’’’’,?’?
+--- temperature: 1.0
+’!,’’!?’’,!’’,’,’?’'’!??!’!,!’’,?’!’?’’'’??',’’?’’,!?’,’?’.’!]!'’!?',.?,!,!!’,’’’!’’’?,’’!!’!’''??!?!’’’?,''’?!?’!’,'’!]’!’’’!’?’’’-]??’!’??!,!’’!’’!’!’’?’’’’!?!!’'..’!?’’’’’.’’!’’’,!’’!-?!!’??!??'’!!
+--- temperature: 1.2
+?’’?!!!!’’!?,'!!’!,’,,,?!,,’?’!’’?,,’’?’-???,!,.!!?!'?’]??!,,!!’?’'!’?]'’?]’?!’’,’!’,’’!’!??!?,’,’?-’’],!,’?’’?’?,'?,!?!.’?’’-’'',?,?’-’,!’’’’’?!’'’!.!,!!'’’!?!’’,,!?’'’!,’’’’’’?.’,,?!’',??’’’!!!!',’!
+
+epoch 52
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’’’’’’’’!’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’
+--- temperature: 0.5
+!!’’’!’'’’’’’’’’’’?’’,!’!,!,’’’,’’!’’’?’?!’!’’!!’!’!’’!’’!’’’?’’!’’’’?’!’’?’’!?’!’!’!’!?’!’’’’’!?’!’,!’’'’’’’’!!’!’’’’!’’’’’’’]’!’’!!’’’’’!’’!’’!’’!’’?,’!!’’!?’’’’’’’!’’’!!’’’’!’’’’’’’’’!’!’’’!’!?’?’,
+--- temperature: 1.0
+!!!!,’!!!?!’’’’’!!’’,’!!!’,?’!’!!,?’’’!’’’'’’!,’’!’’'?’,???’'’’?’’’’.??’’!!!’, ’’!’!'!’?'’?!!!’?!?’’’,!’?’?’?!’’’’’’!,’’?!’!’,’’’’!!’’’’!’’’’?.'’'!’!’],!’’!’’’,!!-,!!!’!!!’?’,,’!,.’,.’?’?,’’’’’’’,,'!?
+--- temperature: 1.2
+?’,!!!!’,’’!!’-,,!’,!],’’’!’!’’’?’’’!’,!?’!’’,’’? !’,,!!’??’,’’’’!’].’?,’!!’’’’,!’’'!!?!’.!’’!’’?! ’?!’!’!’!!?',’?!?’?,’],!?!’!?!’!’,??'’’]?’!!’',],?!'’'’,?!’’,’’’?,???!!]’’?’’’’’?'!,?’!,’,???,?’-’?’’
+
+epoch 53
+
+--- Generating with seed: "" grotti: ah.  grotti: but you also got "
+
+--- temperature: 0.2
+" grotti: ah.  grotti: but you also got so good. jim: you can give me the first time with erin. michael: are you sure you would. that is not a good idea. michael: i don't know. i don't know. i don't know. i don't know. i don't think it's not. michael: no. michael: no, no. michael, are you a t with the baby are you in the phone said that i can... [michael walks over]  jim: you can be not be really get your new to them. erin, we
+--- temperature: 0.5
+ be really get your new to them. erin, we should work. phyllis: is it that no? jim: no. are you sure you about in the office? michael: good. ryan: you want your own the party. dwight: that is so no for you. jim: you can do this. erin: i can go back for a minute? [know s] jim: i can't believe that phyllis told you. i'd be a ago. i'm not back. dwight: i don't have to be so much for much to do today, we can do this. kevin: [to 
+--- temperature: 1.0
+do today, we can do this. kevin: [to stanley] [as angela: just go home. darryl: we got to be doing it. michael: we’ll get out of this. dwight: here for a little room ok over right... why should we just you just you sure? pam: i'm going to you. jan: i m, michael's about it or do this for we do. phyllis: and your back to be doing very nice for little you in. just want to get? jan: you are doing very nice. michael: and it is how, uh, i know.
+--- temperature: 1.2
+ michael: and it is how, uh, i know. pam: it doesn't my office. michael: i thought they were friends! good back? erin: sure?  michael: yeah. dwight: ok, come on, that was fine. [thanks] it’s with me a clapping or the office much. [find. kevin: oh my god. darryl: come on! [laughs] what are you doing? yeah. dwight: do you come up. andy: [really're in work it is really? dwight: dwight was woman! are you much? oscar: what? who would be... michael: is-- jim:
+
+epoch 54
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’!’’!’!’’!!’’’!’’’?’’’!’’!’’’’’’’’!’’’’’’!’’’’!’’’’!’’’!’!’’’!’’’’!!’’!’’’’’!’’!’’!’’’’’’’’’’’’’’’’’’’’’’’’!’’’!!’!’’’’’’!!’’’’’!’’’!’!’’’!?’!’’’’’’’’’’’’’’!’’?’?!!!’’’’’’’!!!’!’’’’’’’’!!’’!’?’’’’!’’!
+--- temperature: 0.5
+’’!’’!,’!!’??,’!!!’!’,!!’’!!!’!!!!’?’’!!?’!’’!??!!’’?,’’’’’!,’,’’?’’’’?!’!’’!’’!’’!’]’’’!?!’’?!’’!!’?’’’,!!’’,,’!’’?’,!’??’?’?!!!’’’’!,!’’’’!!,’’?!!!’,’’!!’’,!!’!’’??’’’’?’?!!!’???’!’’!!’’!’’’’?!’’,’’
+--- temperature: 1.0
+!’?!!’?’,!!’!’’’’'!?’’!!!?’]?’?!]?!!’?!,,-’?!’?’?’,!!’’!’?'’’’? !!???’?!’!’’?’!’’’’!’!!]!!,'!!-’?!,,?,!’’!’’,?’,!’?’!,’’'?’!’!!’.'??,!!’?’!’’!??!??!!?,??!.,'’!’’’,?’??,’!!’!’’?,!]?’!!??,!'’,’’!-''’!!?
+--- temperature: 1.2
+,'’’!?’’???!.-',,’,’,!'!’??!’!!’,!,.’’’?,’’’?!!?,’’’?!’’’?!’,!’?!’,!.!?,???’!,?’!’,?’!’’?’,’!,-'?’?’!’!,-’?’!?’!,’,'’’’-’’?!,!’’’’?’?!!,'??!’’!’-??,!?!,]!!,!,!?!’?-'’!!!,?!’?!?’’!,?’’’!!’],,'!!!'’,,’’
+
+epoch 55
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+’’’’’’’’!’’’’’’’’’’!’’!’’’’’’’’’’’’!’’’!’’’’’’’’’’’’’’’’’’’’’’’’!’’’’!’’’’’’’’’’’’’’’!’’’’!’’!’!’’’’’’’’’’’’’’’’!’’!’’’’!’’’’’’!’’’’’’’’’’’’’’!’’!’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’!’’’’’’’’’’’’’’
+--- temperature: 0.5
+?,!’’’,!’’’’’’’’’’’’?!’!’’’!’,,’’’’’’’’’’’’,?!’’,’’’’’!’’’’,,!,-?’’?’’’,’’’!’!’’!’’’’’!’’!’!’!!!’!’?’’,!?!,’!!!’?’’’’’!!’’!!’’’’’’’?!’’’,!’’’’!!!’?’’’’’’?’’!’’’!’’’!’’!!’’’’!!!’’''’’’’’’’!!!’’’’!’,’’!
+--- temperature: 1.0
+’,!’’’’’!’,’’]!!!,,!?-?',’’?!-,-!'’!??.’!!’’?!’’!,-’!!’,?’’?!’’!’!’’’!’’!’!,’!!’’!!-!,?!,’?!!!!’’?,’’-?’!,?,,’’’?!!’,?!-,’’]?!’,!’!,’’’!?’’’!’!’’’.’’!’]'!,’!’?!’!!!?’’?!’]?’,!’!!’’’!’’’’?’-’!!!,’’,’!,
+--- temperature: 1.2
+’!!.!,?!-,?’!’'’!!!!’,!’’’-!?’,'?!’’?'-’],’’’’???!!,’'’?!!’’?’!’,'’’’!,.'!’,']’!’'’,’’!’-’’!,?!!?’!,’’?!?]!’?'’,’,,’,,’!.’'??’,]??’.’’!!’’’’!!’!’!’,’! !’’’’’''?’’!’,!,!’''!’?!’!’]’!?-’’?’!!’.!'’]?'!!!
+
+epoch 56
+
+--- Generating with seed: " our... you know, situation, we're gonna "
+
+--- temperature: 0.2
+ our... you know, situation, we're gonna call me to the of time with this office? pam: i don't know. i can do it.  pam: oh, i know you was like the night. angela: i think you don't know what you got you will be here. jim: it's not to the :. pam: i don't know what you got, i can do it.  pam: i think i can just say i will be back. jim: i think you can do it.  jim: i think you can do it.  pam: i think
+--- temperature: 0.5
+i think you can do it.  pam: i think i can't just find a s second at the seen, right. michael: okay, you said that i will be gone. michael: you want to be here guys not call me. i'm here guys guys. ryan: i know i was like just ', we can we just get back to the paper company. michael: i... i don't want to talk about it.    pam: i do. andy: i know you was not here. michael: you can do this. i think i’m a awesome idea. oscar
+--- temperature: 1.0
+ this. i think i’m a awesome idea. oscar: i'm good. pam: you sure you one? michael: [leaving the office party] toby: okay, ok, i think it in you something. dwight: okay, and i think it was was up. ryan do it.  jim: why get it? dunder mifflin, this is jim: oh. ryan: you don't do it! i wanna go with that.  andy: it's not a lot of like it i did with now now, i did it. david... jim: just think that is fine. i was looking with 
+--- temperature: 1.2
+ just think that is fine. i was looking with it with your car back on back with the paper.  pam: just . we said nice of the hospital. kelly: okay, jim, look for a.. ryan: everyone camera] okay not this. we can't tell her. [pam nods]  kevin: i will not be with that time and make it. you've won mean my terrible. jim: she’s what about this guy.   meredith: thanks man. kelly: where's my friends put you years?    jim: you thought it. i thought i were good back work 
+
+epoch 57
+
+--- Generating with seed: "michael: you have big plans for tonight? michael: you"
+
+--- temperature: 0.2
+michael: you have big plans for tonight? michael: you can do this. pam: wow, no. kevin: oh my god. andy: yeah. andy: yeah, i have a good thing a dad, and i have to make a little bit because . thanks. jim: no! andy: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, 
+--- temperature: 0.5
+, no, no, no, no, no, no, no, no, no, no, no, i'm good. ryan: no, come on. dwight: okay. phyllis: okay, i don't have to make a little bit if you you i do. andy: i have a minute here. michael: hey. michael: oh my god. michael: what are you doing? dwight: oh, i'm just gonna make me for him. meredith: i can't come with that. michael: okay, okay. i just wanted to say. darryl: hey, so what is going on? michael: well... 
+--- temperature: 1.0
+ so what is going on? michael: well... jim: so i came and camera in the break of good. michael: no, no! it's just, ok? don't... [whispers] yeah! kevin: ok, oscar. hey, i good too with my job. erin: [0 a little bit of his office with gabe - charles: no are's not ready. dwight: dunder mifflin, no. i'll just see. oscar: jessica the!" phyllis: so, i like the walk we can just go, thanks, jim's all her in a good deal] okay last time.  
+--- temperature: 1.2
+ her in a good deal] okay last time.  ryan: i don't not know what that's?   kevin: there's no sales and make a little bit! kevin: yeah! um, just's going to be going to ok, okay. so, i know! pam: not a terrible? michael: yes, you... god did done, if you let it. dwight: wait? andy: not nice right. dwight: i'm really glad can be a big out! meredith: um,... you saying we say, the fired? i is still have guess it's a sweet. never,
+
+epoch 58
+
+--- Generating with seed: ". jim: just cut through it, man, it's"
+
+--- temperature: 0.2
+. jim: just cut through it, man, it's a hot ’.                                                                                                                                                                                                 
+--- temperature: 0.5
+                                                                                                                                                                                                                            
+--- temperature: 1.0
+                                                                                                                                                                                                                            
+--- temperature: 1.2
+                                                                                                                                            robert: angela ok. david: stop. michael: no, i don't sure you really, okay, that's okay that you're been another like the door before. michael: well, no. ryan: mm-hmm.  jim
+
+epoch 59
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!’’’’’!’!!!’’’’’!’’!’!’!?’’!’!’’’’!’!!’’!’’’!!’!!’’’!’’’’’’’’!’’,!!!!!’’’?’!!’!’!’!’!’!!!’!!!’’!’’!!!’’’’’!!’!’’’’!!’’!’!!!’’’!!!!’?!!!?’!’’!!’?’!’!!’!’?’!!?’’?!’!’!!’’?!’!!’’!’!!’’’’’’!!!!!’!!’’’’
+--- temperature: 0.5
+’!!,’?’,’!'’!’!!’’?!,’?’?’’!?’,!!!,!’’!’’?’’!!!’!’’!’!’,!’!?’!,!,,!?’’!!’,!’!’’?!!’!?’!!’’?’!??,’’!’!’!’’?!’’’’!,!’?!’’!’’!!?,!!?’’’’?!’,?,’!’,,!!’’?’!!!,’’’!’’,’!?!!’’,!’!’!’’’’’’?’!’!!’,’’’’’!!!’??!
+--- temperature: 1.0
+’,’!?!!’’!-’,!’?!!?,,!’,!?,’!-!!!’?!'’!!,,’’,, !’’?!? ,.?!-’’??!!!,?-’’!,,'’,’.-!’!’!?’’-!’,-’’!,??!],’’-!!,!??’-!?’’-.,!’??????!?’!!’!!?'!!?!!?!’!’!!.?!’’'??’?,],!!!? ’?’!?’??’?!’!’’'’’?!?'?!’!!!’’ !
+--- temperature: 1.2
+-!,’!?-,,’,!!’'!!?’’?!’!’!’',?,?]?.!!'!]??,,’.!.,!’’’?!?!?],?!,??,,?!’!’’’,]?’’!!’'!?!?-'!’’!! ’?’’!’,!.?!!,’,]!.’,,!,!’,’]’'’’,!?’!?’-!’?]??.!,!]!!-]!!.?!,'.!],’!’?’,!,!’?!!’,??’’,,?’-,?!, ,?]]’’’!',
+
+epoch 60
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!’’?!?!’!!!!,!,!!!!’!!,!!!!’’!?!!!!!!?’!,!!’!’!’??!!!!!!!!’,?’,’!’!!?’?’!!’?!!!??’!!’!’’!’!’!!’?!’!!’!’!!,!!’!’’’!’’?’!!,??’?’!!!!?!!!,!’!!!?,?’,!!’!!,!!,’?’!!!’!!!!!!!!!!!’!!!!’’?!’!!’’!!!??,?,’!!!’!
+--- temperature: 0.5
+!!’’!,’!,?’,’,,?!’’!!!??-?!’’!,?!!?!!!!!!,!’’’,??!!!!’,?’,!!’,’!,’’?’!!’?!’!!’’!!'?’’?!,’!’’’’?!’?,???,??,??,’’?!?!!!’?’’??’!’',’,??,!!?,!!!?!?!?,!,’!!’?,!?,,?’!’’’!,!.,?’,’’,!,’!!,!’’’,!’!’,!’!!!!?’’
+--- temperature: 1.0
+!!?!!’!’,?!,’!’!’.’’?!!!!!’?'!??’’??,!’’,?! !!’’?’-’?!?,!?,'’,]!’!??!?!,!’!’’,,!!?!!’]!??!?!’,!,.’’,’.’’??’,?’’!’’’!?!!,’?!!]’,?,!!?!?’.!’!’!’’?,’?-.!-',?!!!?’’!,’?!!’!?’,,,!!’],,!’,!?,?,,!,,’!?!’?’!'
+--- temperature: 1.2
+]''!’]],.’’'’],’,!’’]!’,!.!! ’,! ’,’!,?’’'?]!’,].,’,’!,.,’??.,!,!!--!!!]’?!?!!’]!!?''.!,!!?,'?’,''!!!,.!’!'!,?’’?!’?!?!!,?!,??,?,.!!’?,-!!,'’?!!?-]’’!’!'’,!’’?!?,]!?’!]’!’'???’!,..!’!???!?’?!!?,’?-,’?
+
+epoch 61
+
+--- Generating with seed: ", or... pam: uhh... roy: huh,"
+
+--- temperature: 0.2
+, or... pam: uhh... roy: huh, we got it. pam: [on phone] it is nice. michael: [  sorry, they a  ’ll go in the spirit's a  's office with my hands. michael: [] on your hands him doing? phyllis: what is going on?  michael: [  sorry about the door and the senator, hi. pam: what is the ahead? michael: no, no, no, no. michael: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+--- temperature: 0.5
+no, no, no, no, no, no, no, no, no, no, no, no, no. i’ll go up you for you for me. michael: i am not going to see it.  michael: [roy to, i'm sorry. pam: oh, my god, oh, god!  dwight: [whispering] no, jim!      jim: [to camera] i don’t know what you're going to see her what. dwight: okay, let me know what you doing to the hospital. michael: no, no, no, no, no, no, no, no, no, just 
+--- temperature: 1.0
+no, no, no, no, no, no, just look some lot.   jim: what? hi. ryan: i was a course. jim: no! dwight: well, it's on the meaning, that is so a gun for you... no, no. michael: no, no. nellie: michael, jan: no, michael, come on, andy. jim: well, you’re gonna see that nice to the , about you. dwight: whoa. hey hey, it's ok, then thanks's just time with. michael: a  ’re not great. michael: why did we call get out of her
+--- temperature: 1.2
+. michael: why did we call get out of her? holly: a minute, what is going on? michael: okay. [know over on from michael is with your desk] they're . and know he's gonna don't think? ok, see this is what that is so out! pam: why did you go back off an office? yes.  [ve, you're tomorrow out for the game.  pam: michael, that was wrong, is it up? michael: yes, i am i want so much about a turns. michael: or here! we guys... he did!  andy:
+
+epoch 62
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+?!,?!!!!!!!!!!,!!!!?!!!,!!!!??,!!!!!’!!!!!!??!!!!,!!!!!’!!!,!?!!!!’!!!!!!!!!!?!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,?!!!!!!!!!!?’!!!!!!!!’!’?!?!!!!!!?!!!!!!!!!’!,!!!!!!!!!!!?!!!!!!!?!!?!!!!!!!!!!!!!?
+--- temperature: 0.5
+???!?!’?,,?!!!!-?!’?’?!!’,?!,’?!’?-!?,!!!?,!!!!!!,!!!!???,?!’!!,,?!!!’!!!!!,,?,,!!’!!,’!!!?!,,??’!,!?!!?!!!?!?,!’’!!!!,!!,!!!!’,?!’?,!?!’’!!?!?!!!,!!,!?!,!’,!,’!’,?,!??!!!!?!!,’!!,?’!!?!!,!?!,!’,,!!!’
+--- temperature: 1.0
+!-?!??’’',!!,’’]??’,,',,!!,!!]?’!!,,!’]!!!.’!?.,?!.’’?'-!,!??!,.??!?’?,!?,? !??!!!?,!?,?.’?!?]!’-!]',!.,-,?!!!!’!,'-,!,’,,?,’!!?,?!’??.??!.]’?’,,’’’!',???!!!!!,???]!’!!,!!'? !!,,!-?,!,!? ,,’?-,.?!!,!’
+--- temperature: 1.2
+!,?,’,!.?,!!!,,,’,-’??’?!??!?,!’,?’!!!!,?]-?,!?!,’?!’!,?!’!?’,,!!’?!’!,!’',’?,.?!]?,!-,!??,!]!'???!!!!’?!?,?’?’??,,?]?’!?,’?,?.’’’’?!]?’]!!?,??-?,,!’?’',?!]!!,!’!???'?!,.’!?,.,’’!’???!?,,!?,,!?!!,’!]’
+
+epoch 63
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!?!,,,!!!!,,!!!!!!!!!!?!!!!!!,!!,?!!!!?,!!?!!!!!!!!!,!!!!!!!!!!!!?!!!,!,!!!!!!!!!!!!!!!!!!!,!!’!!!!!,!?!!!!!!!!!!!!?!!!!,!!!!!!!!!!!,?!!!!!!!!,!!!’!!!!!!!!!!!!!!!!!!!,,’!!,!,’!!!!!!!!!!!!!,!!!!
+--- temperature: 0.5
+,!,!’!,!,!!!!?,,!!?,’’!,,!’!!??!??!!!?!?!!!!’!’??!!!’!??!!?!,’’?!!?!?’!!?!!!!??,,,??!!!,!!!,!!!,!!’?!,!?,?!!!??’?!,!’’!!’’!,,,!!!!,!,!?,!,’!!!!!’?!,!!’,?’,,?!!,’,,,!!!,,?!!,,,,,?,!!,,!!!!!,,,,!!'!!’’,
+--- temperature: 1.0
+?,,’!’’!,?!??’?]!,,,?!’!,’.!!,!,,!,-,?,?’.'!.’'!!!,!!-,-!!!!',’!,,?.’!,,!??!,,’?.!,?!?!!!,,’,?-'!.’]’?.!’!!’??,’’?,,,!’?!,',,?!,’?!?!!,!?.’?,!,!!!]!,?!?!]’!!-!?,’?.!!!!,’!!],!’,!!’?!'-!!,’?,’'-!!!,-!!
+--- temperature: 1.2
+!-!?!,,]’!!]!’?,-.!]!!’]’,.?’?!’!-,’!!,!,,’’?.,,?,! ,?,']!’!',-!’]!!,!?!!’!-’’'!,!,!!? ,!’!?,,’?!?,.?’!!?’’,?’!,!, ?!!??,??,’’?!’-]!,’!’?’?,’,’?,!,,?’-’,!!’’’,!’-'!,’]!,!?,!-’,,,’.,,??! ,!,!.!!’!.!!!!
+
+epoch 64
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!?!!!!!?!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!,!!!!!!!!!!!!!?!!!!?!!!!!!!!!!!!!!!!,!!!!!!!!!!?!!!!!!!!!!!!!!!!!??!!!!!!!!!!!?!!,?!?!!!!!!!!!!!!!!!!!!!,!!!?!!!!,!!?!!!!!!!?!,!!!!’!!!?!!!!!,!!’!!!!!!
+--- temperature: 0.5
+!!!?,!!,?!!!?!!,?!!!!?!?!!??!!!!!,!!!???,!!!?,!!?!!??!?’,!!!!!!!,!!??!,,!?,-,!??,?!?!’,!!?,!.,,,!!!!!,’’!!?!,!!!!?!?!’!,??,,!’!??!?,!!,!?,!??!!?,’!?!!!!’’?!!??’!,!?!?!,?!,!!?!!,,!’!!,!?,’,??!!!!!!!?!!
+--- temperature: 1.0
+?'!'?!!,?!?,?’’?!?!!-!?!?]]!?,!.!!!’’!?’!',!?!'!-!],?!!?!]!?,]''!,,,?’?,,?,?!?’,!,,?!?’?,’!-'?!,??,!]?’!!'!!,,!?,-!-!.!?'’,?,',,',.?!,!?'’!!!!!,,’?,!,, .?!,?!?!,,!,.,!!?]’?,!????!!’,???’’'?! ?!????!’!
+--- temperature: 1.2
+!-?'!.'?’.,!?’!,-!!--,!.?’?,!,,?!.!?]!,,!,’!’’!!!!!’?!,'?!!???-.!!,!!,???!',.!,!?’?!?.?,]’!,',!,,!?,’’?’!’??, '?!,?'! -,’’,’’’]!!!.?!!?!!!',’,!’!?!,,!!.,?'’-!?!?!,!!,!?!,??’]!?!??’’’?!!’??.’,!,’'!-]!?
+
+epoch 65
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!’!!!!!!!?!!’!!!,!!,,!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!?,!!!!,!!!!!?!!!!!!!?!!!!!?!!!!!!!!!!!!!,!!!!!!!!!!?!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!?,,?!!!?!??!!!!?’,!,,’!?!!?’,’?!,?!??,!!??!!?!!!!!!!’!!,?’!-?!!!!’!!!!?!,!!!!!!??!-!’,!?!’,?,??,,!’!]?!!!?!’’’!?!?!?!,,’?,!’?!!!’!!!!’!!,’,!'!?!,?,!!,!?!’!,?!!?!,!,,,!!’’!,!’?!,’,!!!’!!!!!!-,!!?!?!!
+--- temperature: 1.0
+,!!!’,’!!-’?,-’!-?’!,?.!’!!’’.?!,?!!’?’?’??!!,,’,!!,,!’!]!!’,?’'?’??’?’!’?!’,,.,!!?,,!!-!?!,!,,-!!’!,!?,,!!’,!!!?!?!’’!!?’?’?!!,! !!!!!?!-’’?!, ?,-!?'’,!?!]?!-]!.!?!!’’’’’'’],!!?!’-?!!?!!,’!-’!-!'’!’,
+--- temperature: 1.2
+''’!',!!!’’’!?’’,!’!’,!!’!’,?,]!? ’!! ],,!,’,’?,!?!-!!!??’?-’??!'!]’’.’’’]’!’,’!,?’!,?!!’!!’!!?’,’,?’???,!,'!!'!'!!!??’!?’'’!?!’!’’!?!]!!!’??’!-’,’!’,?,?.!!!'!,!,?’!???’!],’’?’-'?,,’?!'!.?,?-!.’!’,]-!
+
+epoch 66
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!?!!!’!!!!,!!’!!!!!!!!,,!?,!!!!!!!,!!,!?!!!!?!!!!,!!!!!!!!!!!!?,!!!!!!!!’!!,!!!!!!!!!!,!,,!!!!!!,!!,!!!,,?!!!,!,!!!!!!!!!!,,,!!!!!,!!!!!!,!!,!!,?!!!!!!!!,!!!!!!??!!!!!!!,!!!!,?!!!,,!!!,!!!!,!!!?!!,!?!
+--- temperature: 0.5
+!!!!,,!,!’,!?,,,!-!’!?!!!!,’!,!!!’!,!!!!,,,!’!!!?!,,,!!!,’!!!,,?,'!!!,’,?!!,!!!,,’,!!’,!,!!,!!?,!!,??,!!!!!!!,!!!!,!!!?!’’??!!?!’,!!,!!?!!!!!,?,,?!!!!??!!!!??,!'!??!!!??!!,!,,’!!???!!,?’!!??,?!’!,?,,-
+--- temperature: 1.0
+?’’’'!!!??!?!?’!’??]!,?’???!,! ’!!!!,?’--!,,!!,.'?,’’?!?!-?!,!!?,!!?’?!!!,!,!!’!,.?,.,,!]'!,!?,,!!]!?’,-! .!?’?-!??]!,?],!!,?!!!!’’,!’!..?!-!’’,,’-?,!?!’!!,!?!!-,!!?,,!!??,!’,’!'’',.?,?.',’??!??!,?-?!
+--- temperature: 1.2
+!-’,?,-,-??,!!’?-'?!]?,!]!,]-!’,?,,’'',!!!,!,,-',’,-’’?,,’?!!,,!’!!,,,?!!’],.?]'!,?-??!!.,,!!!.’,’-’., ’’!,,!.?'.]-! ! ?,!,,!]??,-!!'!]!!-!!,.?!,.],?’!’’??]]-?.!,’,!?.'!!’,,.,??]’'!,!?!, ’’!,',!!?,!,!
+
+epoch 67
+
+--- Generating with seed: "on us? gabe? michael: nope, it won't "
+
+--- temperature: 0.2
+on us? gabe? michael: nope, it won't you you go now. jim: oh, hey, how uh, i know what i was the course. kelly: [:] what do you mean? dwight: [,] it's [? the sex. angela: [- the ground more than you. michael: i know what? i know what? i don't know how. i know he can't have a ], you know what? i am not going to come now?  jim: [whispering] erin: [] on the sex] andy: i don't know how i can do it. 
+--- temperature: 0.5
+ i don't know how i can do it. michael: [,] yeah.  michael: [,]  michael: oh my god! erin: hey, what is that? how do you get there? jim: that's how it! andy: no. andy: yeah, it was the warehouse? pam: [? ’] angela: [laughs] jim: what? jim: i know... pam: i know what? jim: what? dwight: i know how? michael: no no no. michael: okay, okay. michael: okay. michael: no, no. no. no. no. you know what? this is so 
+--- temperature: 1.0
+ no. no. you know what? this is so much now. pam: yeah. jim: no. jim: okay. andy: no sit anything there. michael: the t hey nellie: no, it didn't. yes, i am. [:] [? back over to her has a  ? jim: nope. dwight: yes. pam: [. ’] jim: wow. but i’ll be kidding? it's gonna hey. oscar: yeah. erin: oh, my god! dwight: well, that's all your other are? jim: come on again. stanley: take it over. maybe you did it in 
+--- temperature: 1.2
+stanley: take it over. maybe you did it in there. hey david. meredith: oh- dwight: my laugh] michael, that's like it, or my god. [. 0. andy: dwight. michael: [re dwight go in the head time ryan goes to the re jan scott. i wanted to make the makes this other are. um... pam, all everyone, do it go out of his other here? meredith: okay. i’d like. that was gabe! erin: you go for that time] [mifflin jim] [whispering] jim: no, good morning. jim: uh, um...
+
+epoch 68
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!,!!!!!!!!!!!!!!!!!,!!’!?!!’?!!!,!?!!!,!?,!!!!?!!?,!!!!!!,!!!!!,!!!!!!!!!!!!?!?!!!!!!!!!!,!!!!!,!,,!!,!!,!!!!,?!!!’!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,,!,!!!!!?!!!!?!!!!,!!!!,!!!!!!,!,!!!!!!,!,!!!!!!!!
+--- temperature: 0.5
+!,!!!!!,!,,?!!???’!.!’!!-,,,’?.!!!!!,!!!!!’?’,?,??’!!?!,,!,’!’!!!'!,!!’,,!!?’,,?!?’!,,'!!!!,!,?’!!!!!,,!!!?!!’,!!!!!',??’!?!?!?!!,,!,!?!!!!!!!!,.!’,,,!’’?,’,-,,!?!!!?!!!!!,’,??!!?!,???’,,?!,!!?!!?!!,,
+--- temperature: 1.0
+’!,?!’!?!,,!,!!!!!???!!’!,.-,!!?!,,!-.!!!!!!,!?!!?.!,!,,,’]!!!!?'?!!!’,!!’’???,!!’-?!,?’?,!,’,!?!!!!,’’,!??,!??!,’,?!?,’?,?,!,,,!!!’!’,,,!,!,?,'!!. !!,’!?’?!!-!?’,,’?!!,?-!,’,!]!!?!,?'!’!!?!,’??,!!-!?
+--- temperature: 1.2
+,?,,!?,??!?,,.!,,?’]’,-],,!,’,!???!,!,-,,’, ,-,!’’,'!!!,]?!-?'?’?!]',,?!,.’’,',,]’,-’,?!!’!,,!.,??,!-?,?,,!!,!'?’?,'??,??,-!!,..,!!,!.,.!.!’]!’?’!''.?,.,?!!,’!!!’,’’!]?-’!,!,!.'!'!,-!,!!,’?,!!..’'.,??
+
+epoch 69
+
+--- Generating with seed: "oh yeah? pam: mmhmm. jim: good. cause i"
+
+--- temperature: 0.2
+oh yeah? pam: mmhmm. jim: good. cause i was i i i i can do the movie i do.  michael: oh, i'm not gonna do you.   dwight: [to toby] yes, i'll be going to be sorry. jim: you can't do it.   jim: hey, hey, hey, hey. pam: so you you doing here? yes.  michael: hey, hey. pam: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: hey. jim: 
+--- temperature: 0.5
+: hey. jim: hey. jim: hey. jim: hey. kevin: hey, how is it, um, michael is a re. michael: no, no, no, no, no, i don't want to do that.  michael: oh, i'm sorry. angela: i don't understand how i can't you don't do me. michael: oh, michael's my bet's it. michael: i don't, you know.   pam: michael, i don't think i i can '.  michael: oh my god.  michael: hey, jim. can i come back in the store, 
+--- temperature: 1.0
+, jim. can i come back in the store, hey, oscar. jim: how are you serious? kelly: hey very good... oscar: ok, um. kevin: yeah. dwight: mmm-hmm.   dwight: [to darryl] yeah, i would be. you're going to stay on what i've just sure wanna'he um, i'm about to me in. michael: ok, well, i was you can mind.   pam: what would you stop?  michael: hey, dwight is, i hear you can't do it in me? michael: yes, hi michael, [laughs] darryl: oh
+--- temperature: 1.2
+ michael: yes, hi michael, [laughs] darryl: oh my god. hey, stanley dwight: yes. but when pam scott, thanks, jim. i could go here. kelly: [t  ? kevin: i had a lot, to definitely. just take a whispering!   pam: that was the morning, [? ’] phyllis: him! kevin: alright! andy: alright nellie? jim: oh my god, how did i -- michael: okay. michael: okay.  michael: darryl.  jim: how much? ryan: who is my name? toby: no no, no. can’s. jim: actually.....
+
+epoch 70
+
+--- Generating with seed: "  kevin: hi, creed, what's up? oscar:"
+
+--- temperature: 0.2
+  kevin: hi, creed, what's up? oscar: you know what? i did not do it.  michael: i am not going to be good.  michael: yeah, i'm a bit. michael: i am going to be good.  michael: i am the bathroom.  pam: i'm not doing a good idea.  dwight: [yep to do's we can not do it. jim: oh, i know, i'm so sorry.  michael: i am i did doing that. dwight: i can't do it.  pam: yeah, i am going to be sorry.  michael:
+--- temperature: 0.5
+ yeah, i am going to be sorry.  michael: you know, i did, not one.  jim: what's wrong with you? jim: no, no, i am too bad. angela: what? michael: i'll take it out of a bit.  jim: so, i told you.  andy: you know, i know what? i'm good. i can't do that.  dwight: what do you want to a em? who else it’s a best to go here? jim: uh. andy: no! ryan it's not. i can't. what did you do? michael:
+--- temperature: 1.0
+. i can't. what did you do? michael: yeah, well, i'm the break of it. darryl: yes. angela: what the hell is up- michael: [yep]  michael: cool. dwight: oh my god.  pam: oh. pete: why? jim: a bit. dwight: ok, ok. alright, right. phyllis: okay. david wallace: i... maybe.   pam: you know that. meredith of the other can be going to me! oscar: i .... michael: i don't know i'm not.  michael: you're me for... michael: what? jan
+--- temperature: 1.2
+: you're me for... michael: what? jan: what do you do? michael: oh, yeah, go to go. andy: yeah, i is, nope.  kelly: that's right.  pam: i'm so know, it's my jessica 0: my ,.  holly: uh... [? a em own a... jim: who's going, i don't know you told me too.  pam: so i saw it for that?  jim: i'm on, i'm so sorry. angela: [over's] what? dwight: you like it.  dwight: okay. he's
+
+epoch 71
+
+--- Generating with seed: "gabe? maybe because you and erin used to be an"
+
+--- temperature: 0.2
+gabe? maybe because you and erin used to be an jim for the night. andy: [good camera] what? jim: no, no, no, no, no, no, okay, okay, i can't do that. jim: yeah. jim: okay. jim: okay. jim: okay. jim: okay. jim: i'm not going to do this. jim: okay, okay. jim: okay. jim: okay.  pam: [on phone] okay, okay, i can go in my phone so just a few for the way on the phone said a seat was a todd to stop it on the  
+--- temperature: 0.5
+ seat was a todd to stop it on the  , and i  ? michael: you are... dwight: on a question. dwight: no no, you know, i'm not going to say oscar, and i know you're good. [michael leaves] michael: [michael leaves] andy: [over phone] no! no! [you off] not a temp, in the new to it. andy: who? andy: i don't want to go back. michael: okay, okay, okay, i'm going to be good. michael: [not office] oscar: you don't want me. [michael leaves
+--- temperature: 1.0
+] oscar: you don't want me. [michael leaves the door]  jim: no, no, okay. michael: [on phone] hey, hey, hey! angela: okay, okay, i'm going to be it. so... yeah.  michael: [on phone] yes! oh, god! oscar: hi. oscar: it was right! pam: yeah, um, pam. jim: ok. oscar: and i  ? pam: okay, michael. i'm weird about jim.  darryl: oh, my god! michael: okay, guys... michael: don't... michael: okay.  pam: what? angela: okay
+--- temperature: 1.2
+.. michael: okay.  pam: what? angela: okay.  michael: can i get us for here? oscar: that's doing it. erin: i like my family.  gabe: yep... it was we just the problem or a joke. erin: one day.  deangelo: all of me.  angela: dwight, what happened? jim: i'm little guy. michael: michael,.... huh. come on! let's go. angela: i know. she's gonna have a girlfriend.  pam: michael, cool. roy: oh, yeah. ryan: all right, so you know, can i...
+
+epoch 72
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!?!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!,!!!,!!’!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!?!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!,!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!,!!!!
+--- temperature: 0.5
+,’!!!!,!!!!??!!!,’!’!!!!!,,’!!!!!,’!!!,!!!!!?!!!!?!!’!!!?!,!??!,!!,!-,!,!!!!,!,!!!!-!!!’!,!!!!?!!!!!!!!!!’’’,?!!!!,,!,!!?!,!!?!!?,!?,!,!,!!!’,!!,,!!’!!!!!,?!,!?!!!?,]!’',!,!!?!!!!,!!!!!,!!,?,!,’?!!!!!
+--- temperature: 1.0
+!’-!’!!?.,!!--,!.!,,,’,’’?-'’’!’,!!’,,’!?!?!!!!!!?!!’!?!!!!?,,,,-,']!?,, !!,?’!!!-.?!!,.’'!!-,,!!!’'!!,!]!!, !’,,!?!,,’,!’,!!,?!!!?!?,!!!'’!,'.?!!,,,!!!’’,!!!,,?-,!!.!,?,’?’!’,,?!’’?,!,,?!?,.’',!,.’!.
+--- temperature: 1.2
+,?,!?,’’’,-!?,!?,,--!.!,?,??!'-?!-’!!-!,!!!’!!!?!!,!-! !,!!?’!?-'!!?,,-!’,??! ’?,’,'?!!,!,,-!!?’’!,??-?-!!,.!’ !!,’,’,,’,’???!]?’,.'!?! !!?!!?,!!,!,!!?’.’.?!,'!,!'?, !,!,?!!,!.?,!!'’].! ,’’,!!,!!!?!,-
+
+epoch 73
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+?,!!!!!!!,!!,!,!!!!!!!!,!!!!!!!!!,!?!!!?!!!!!!!!!!!!,!!!!!!!!!!,!,!!,!!!!!!!!!!!!!!,!!!,!!!,!!?!!!?!!!!!,!,!!!,!!!!,!!,,!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!,!!!!!!!!!?!!!
+--- temperature: 0.5
+????!!!!,,-!!,!!!!!!,,,,!?!,!,,!!!!’,?!!?!!!?,!!,,!!!,??,!,!?'?!!?,,!!,?!?!!!?!!!,!??!?!-!!,??,!,,!!?!’!!?,!'?!!,,!!!,!?!,,!!?,,,!??!!!?!?!,!,,!!!,-!,!!?!?!!!!’?!?!!!!!?,-!!,?!!!?!,??’?,?!!,?’,,,!!,-!
+--- temperature: 1.0
+?,?,’,,!?!-!!!’!!!!?!.,,!!??!!!.!?,!,-!’!’!'??---?!!!!?!!?!!,-!!.!!’'?!!,’ ?’,!.!,?!,’??!,-,’’,? .!!!’,’!!-’,'’’!!- !!-,’?,,.?’!?.-!?!-!,,,!,!?!’!! !,?’,!??!!!’-’!,,-.,??!!-??!.'-,!?!!?? !-!??!'?!?,!!
+--- temperature: 1.2
+??!--?, ???’,-]-!,!’,,’,,!,!?!?!?’'.-?,!!-’,-!!,'.!].!',!-,!???,!,]--,’-,-?.!!!!-.,’!?-,-,!!? !!!!?-’,-,??!!,]’!?,'!!!-!’?,,!'!,-!,’!!!,.!,?.?!,’!,??!.?!-,!',-!.,,-'?,!’!’!’!!’,!!??!?.,,!?!,,’’,’,,.’-
+
+epoch 74
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!,!!!!,!,!!!!!?!!,!’!!,!!,!!!!!!!!!,!!,!!!,,,!!!?!,!,!!!!!,!,,,!!?!!,!!!!,!?!!,!,!!!!,!!!!!!!,!,!?,!!!!,,!!!!!!!!,!!,!,,!!!,,!!!!!!,!!!,!!!!,!!!!!,!,??!,!!!!!!!!!!!?,!!?!!!!!!,!!!!!!!!?!!!!!!?!?!,!!
+--- temperature: 0.5
+!?,!,-?!,,?!!,??,!?!?,,?,,!?!,,!!!?,??,?’,.!,!,!,?,’,,!!?!-!,’!,,!-??,!,,????,!,!?,!,,,!!!?,!,!!!,?,!!,!!,?,!!!,?!!,,!,!!,,,!!!????’-?!,,?,-!!!!,?,,!,!,!,!!!?,!’??,!’-?,’!????!?!,!,!!!!??!’’!?!?!!!!!!
+--- temperature: 1.0
+!!!’'!!’’.?!’’!,’,??’!,!!-?-,’?,]’?!’???-,.?-,!,’??!!',,,?’-?],?!]!!!!!!,!!!,!!?.!!!?!,'?!?!!,’.!!’',?,.?!-.!?!.?-!!?,,,!-!’’!!’!!,-’,.!,,’!’’,'’!!!,???!!!?'’!?!’,,,,’,!!?!,,!!’-?’!,!!]!?,!,,! !,! !,’
+--- temperature: 1.2
+, ,,’,,-’??'!!’?]!,!,!!-,!]?,?!-,’?’!,--!,?’!,'-?!’’,,]?,’!!!,!!,,!],,.’??,! ?!?,,??-’??],!!.,!!?!??!-,?]-,,??!!!,!,!,?!,',,!’]’,.!?--!?.]!!!!’-,-!?,?!]!!-?’!!.!]?,!’]?,?,,’’!?,],,?!.?,,'?!.,!!,?,',?,
+
+epoch 75
+
+--- Generating with seed: "is there a ring? kelly: [whispering] come on!"
+
+--- temperature: 0.2
+is there a ring? kelly: [whispering] come on! meredith, you guys are gonna be the matter. michael: no, no, no. michael: okay. michael: [on the phone] yeah . meredith, i'm so any of it do.  stanley: i know what what? i can't do that. michael: i don't think so. michael: i don't know what i was the : and tell her to the believe he's gone. michael: i am the best ,? michael: i don't know what you're gonna go. michael: michael, i'm not gonna go.
+--- temperature: 0.5
+ go. michael: michael, i'm not gonna go. meredith: what are a gun.  pam: [to michael] [think in the house]  jim: [on the phone] yeah . meredith. she was the night is m... michael: oh, no, i don't think so. michael: you don're not going to just go for a cup of your vance brown. hello, jim. dwight: i'm not gonna do that. i’m not doing it. dwight: they're the hospital. michael: [on the phone] yeah, i'll take it off.  angela: no, no,
+--- temperature: 1.0
+i'll take it off.  angela: no, no, kevin! creed: [to michael] [they hug] charles: phyllis! that'd talk all up.  stanley: i'm looking minutes together! charles: what did you can do that?  ryan: so this is really karen. jim: oh, i'll have. kelly: how long will be the : why don't. hey. michael: hello? michael: oh, this we should think as she is a gun. i’ll take it back. michael: why don't i guess you don't mind to don't come in! gabe: michael! 
+--- temperature: 1.2
+ mind to don't come in! gabe: michael! meredith'm going to do this, so what that's said, what about that, we're not one now. robert: thank you who are you... that i you guys! [on the phone] wow, you're right, but michael to get do that i'm... andy: yeah, jim. jim: ok, guys, get up? this is of business. angela: pam. angela: nice. what is he doing?  pam: jim. creed: don't you... [looks at his know! when pam: they told you anything else
+
+epoch 76
+
+--- Generating with seed: "? toby: ok, i can't count the hour "
+
+--- temperature: 0.2
+? toby: ok, i can't count the hour that he can do that. pam: [on the phone] i will take a lot of me. jim: i don't know. i don't know what you say, i think. pam: i don't know. pam: i don't know how do you guys was the night. michael: i don't know what you think. jim: i thought i had my leaving.   michael: what are you doing? jim: what are you doing?  michael: what are you doing this? pam: i can't do that was something else
+--- temperature: 0.5
+? pam: i can't do that was something else i can do this. jim: we can all get this for a good idea. dwight: i don't know what you mean- [mmm] pam: oh, my god. pam: oh, my god. pam: oh, my god. michael: what are you doing? jim: sure, what are we doing? jim: i am not going to see you guys for a little big time with this. dwight: dwight, have a good idea. michael: you don't know, how much do that do?  michael: what are you doing? jim
+--- temperature: 1.0
+ that do?  michael: what are you doing? jim: i'm really in the night. angela: no. toby: he would not say it. we didn't work. jan: um-  pam: michael, i great. jim: well... pam: i know, jim. it was my time down. michael: you have to work. angela: ok, just- ryan: look, right. toby: i don't think that, i did. pam: actually, you have a good room. michael: come on. alright. jim: kevin, he was never take it over your idea. that was something much’
+--- temperature: 1.2
+ take it over your idea. that was something much’s really are just not. michael: at her: hey, alright, okay. jan: not a good time for the time. i thought, i might seen you. pam: yeah! pam: ok, this is oscar's being idea at night and ]’ve got his party? stop your leaves?  andy: no, we really need there's together. jan: it's really me guys. erin: we love you. what's wrong] all right to me all the morning, andy: please, don't wait. hey, i don't know. yeah
+
+epoch 77
+
+--- Generating with seed: " where i live. dwight: oh, thank you. jim"
+
+--- temperature: 0.2
+ where i live. dwight: oh, thank you. jim:    darryl:  phyllis: hi. pam: hey, i'm re's a : - it's my office way for a lot of them.                                                                                                                                                 
+--- temperature: 0.5
+                                                                                                                                                                                                                            
+--- temperature: 1.0
+                                                                                                                                                                                                                            
+--- temperature: 1.2
+                                                                                                                                                                                                                            
+
+epoch 78
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!-!!!!,!!!!!!!!!,!!!!!,!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!,!!!!!!!!!!,!!!!!!!!!,!!,!!!!!,!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!,!!!!!,!!!!!!,!!!!!!!,!!!!!!!!!!!!!!,
+--- temperature: 0.5
+!,!.!!!!!,,!,?!!!!!'!!!’!!!?!?,?,!,,!!,,!-?!!,,!!,!,!!,!!?!-!-?!,,,!-,!?!?!?,!!!!!!,,!,!,!?!!,!!,?!.,,,!!,!!!!?!,,!?!!!,’,!!?!,?!?,!!!!,,?! ?!!?!!!,,!,!!?!!!!?!?,!!!!!!?,!,!,!’!!?!!?!,!,?,,!!,,!?,,!!!
+--- temperature: 1.0
+’’!!!,?,,!?!?',!.’?'?!,!,?!,?,!! -?,!-!!’’!,,?!!,!,,,,-,,?,.,-,,,]??..-!!!.!.!?,-!.’,!'!?!!--’-?!'!?!!,!!,,?!?!!?!,?,-!]??,,,,!!,! ,,--]?!,,,,?.,,?!-?!’!,!]’, ,,,,?’, !?!.,’!?’!,!!,-?.?!?!,?!!!!!-!!.,
+--- temperature: 1.2
+,,,!!!-’!?'!,,?],!’!!,??,!?!.?'!'!??,!?!!,!,’!’!!-,’?!’!?,,!!-?’!,,'.,!!?.?!!!?!,,?!?-,’,],?!,,?!,]!,?!?!!?,!!!!,?!!?!!,?!?!!!!!!?!!!'!!.?,,!?-?!!!!??!! ?! ,?!.??,?’?-!??!?,,,,?!-!,?,!??,!!’?,!?,!’! .
+
+epoch 79
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!?!!!!!!!,!!!!!!!!!!,!!!!!!!!!!!!!!!,!!!!!!!?!!!,!!!,!!??,!!!,!!!!!!!!!!!!!!!!!!!!?,!!!!!!!!,?,!!!!!!!!!!!!!!!!!!!!,!,!!!!!!!!!!!!!!?!!!!?!!!!!!!!?,,?!!!!!!!,!!!!!!!!!!!?!,!!!!,!,!!!!!!,!!!!,!,!!!,!?!
+--- temperature: 0.5
+!!,!!!’!?!!!!!!?!,!,!,,!!?!!!!!!,!.,!?.,?!!!,!,!!,',!,!!!!!,!,,?!?,,?.!,!!,?!,’!,!?!,?!!’,!?!!!!?,!!!!?.?!,!!?!,!!,,,!!-,’?!!,-?!!!,!,!!!!!!!.,!!!!!!,!!?,-,]?!!!!!!?!-???!,!,?,!!]!,!,,,,,!,,?,????!?!,
+--- temperature: 1.0
+.!-,.,-??-!-?,.!-! !.,!,!?,?.,!!!?!,?!,,!?-!!!'?,??,,?,!?.!-!-!?!'!-,!!!,?,!?!?,?-’!'?!,,!!!??--!??!’?,],.’!-?,,,??,???!!!!.!!!,,,.!!,,?!’!!!!,!!!!!!,!??!?'!?!,!.]!!!?’- ,,?,?,,.!!!?.,!!?.!!!’?!!,,,,!
+--- temperature: 1.2
+]-!,-!,,!..,.?,?!!,?,?!!!?!-,!!!!!!!!,?-!!,,!!-!!’-’?--]??!!,!,-..?-!!]!!,.-!-!,!,..!,!!,,!-, .?!,,,??,??!',.?.!!!!,,-??-?,--,],,,,,,!’]'’,-?!,! !.!, ’? ,!!-?,,?!!’!!.',,?!!’,,!,,,!!!?’,! !!.,!],!?]’.
+
+epoch 80
+
+--- Generating with seed: "[erin kicks box] whoa! erin: sorry i'm "
+
+--- temperature: 0.2
+[erin kicks box] whoa! erin: sorry i'm dead. oh god.  dwight: i am you always m up. michael: no, i don't think i were going to see you guys. pam: i'm not gonna be a little bit. dwight: what is that?                                                                                                                     
+--- temperature: 0.5
+                                                                                                                                                                                                                            
+--- temperature: 1.0
+                                                                                                                                                                                                                    dwight: :!  dwight
+--- temperature: 1.2
+            dwight: :!  dwight: remember a , right in it to talk to us. michael: how ll's very doing this night. uh, um... go first right now. dwight: it was not? jim: ok i? pam: wait a little bit to hmm i have at you knew the :. oscar: pam. because that was out of the little bit. jan: you know no. meredith: i have to give it out of this. jim: very mmhmm.  andy: really? angela: i don't have to just let me in. david: all
+
+epoch 81
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!,???!?!!?!!!!!?!!,,!!!!!!!!?!!!!!?!!!!!!!!!!?!!?!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!?,!,!!!,,!!!!!,!!!!!!!!!!!,?!!!!?!’!!!!!!?!!,!!!!!!!!,!!!!!??!!’!!!!!!!!!!!!!!!!!!!!!,,!!!!!!!!!??!!!!!!?!,
+--- temperature: 0.5
+,,-??!!!!!,!!!,.?!!!!!?!’?,?!,!!!??!!!!!!,?,!!!!,!,!?!!!!-!?!???,,!?!!?!!!!!,!???!!?!!!,’,?!!!!!!?!’?!!,!!!!,?!?!!!!?,!,!!!!!,?!???,!??,?!!,!?!’!!!,!!!!!,!!,,!!!,!!!,-,-!?!?-??,!,--!,,!?-!!!’-!’!!!!’!
+--- temperature: 1.0
+!!?]??,?,!?,,!!,-?!’?,!.?!]?’'?’!,?.,.!!,.’,’?’?'!?,!!!!,,!,!!,,!,!!,,,-!?!!,?]!??,!?’!-?!.?-!,?!!!!,,!!!!,!,,’,,?,!,!!,?,!--.,!,!,!,--?!!!!!!!,,!'!’?,?! .?,!,!?!,!-!-??!?!!?..?!! ,-,?!,?!?!!!!!!!???,
+--- temperature: 1.2
+-!?’.!-’’’’!,,!?!’!!?!-’?,!?!!,,,,!.!’ !!?’’?,!?,,!.?- .,’!?!!’’,’??-!,,,!!!’,!!]!]!]?-!!!.,! ?-’!??,’’!??-?!-,!!?,?,?-?-!!,?!’?!?,!?’,,,!?,!’!!?!,!-’’’!’ .?'.!.!.?! !,!’,!.’’!!-, .?,,?,,,!!!,.’!!!’-!
+
+epoch 82
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!?!!?!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+,!??,!!?,?!?!!!!!!!?’’?!!,?!!!!!!!!?-!!!!!!?!!!??!!!,’?!?!?!!!!?!,!??!?!!!!?!!?!,!!?.’?!!?,!!!!!,!?’!?!-!??!!!!!???!!,!!’!!?!!!!,!!?!-!!,!?,,?!!!!!!!!!,!!,!!!!!!!!,!’!??!!!!!!!!!’??!’!-’?!!?!!,,?!!,,!
+--- temperature: 1.0
+?’!!?-'!!!!!!!,!,?-? ,!!??’!,-'!!-.,]!?!,’!’,?!,!.?!?!?!,-,?!!’., ’?!!!,!?-!,!!?,!!?-!,,?!’!!!!?’!! ’!’,!?!!.!!,!!-?!-!!’!’’,!,!,’’’?!?!!,!!!!!!!?’.!’?,'!'.,,]’!’!!..,,!!!!’-'!???!!!,’’??,’,?!,,’.!,,’
+--- temperature: 1.2
+.?!?-,-’,!!!’-?-!?’!!’!--?!., !.?!-,?’.’?,!,,!?,,!!?’?.!!?,?,,?’??!!!?’’]!?’!??,’!!?!!!?!!-!!!,!?!!'-.?!.-?-!,?.?!,'!!?,,,’?’,!!-!!?-,’!! -!?!’’.!,.,!!,??,’--!,!’!?-?!’!-!,!.!?,,'!!’!?’!!-'’.’.!!!?-??
+
+epoch 83
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!,!!?!!,!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!??!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!?!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!?!!!?,!!!!!!!
+--- temperature: 0.5
+!?!!!,??!,-!!!!!!!,!!!!?!!,?!,!,!!!?!!?!!'!!!!!?!’’!!!!’!,!.!??,?!!.!!!’,’!?!,!!?!!!’!???!?!?!,!!’!,!!!??!!!?!!’!!!!,??!!!,’’?!!!!??,!!!!!?!!!!?!?!!!’!!?!?!!’???!’’?!!!,!-!!!??, !,!?!!!!!,!!!!!?!!!??!
+--- temperature: 1.0
+!,?,!,?’’’!????-!’’!’!,?-.-!!,'.!,??,,-,!?’!’,-’!!--!,,?,,!?! , ,!??!!!,!’.,!-’.??!’,!-,!,,-,!?’!’! ,-????,’!?’?.!’!!!.!!?!!,’!!!!,!!?,!,!,,!.?!’,!!??!!???!!-?!’,,!?!?!!’!?.!’!!?],!-,?’,?'-?!!?’!!!!?,
+--- temperature: 1.2
+.,?,,!?!?’!?.!’!,.-,-!?!-?]!,-’,-,.-.!-!!-’!-,!?,? ,’’?-??’!,?’?!,],,!!!!,’?-.,,? -!.!!,?,,-,-,?,?-?.?',!,’?’.!,-,’!??’!!,,! ,??!!,?’?!! ,!!!..].!,!’?!,,’!!!?!-,!,!!!??!,’??,.’!]!.,,!?,-,!!,’!-!?!?!.-
+
+epoch 84
+
+--- Generating with seed: "erin: yeah. andy: in two minutes i want you"
+
+--- temperature: 0.2
+erin: yeah. andy: in two minutes i want you heard it the job. michael: no. i can't do it. i am on. michael: i don't understand that no my idea. michael: you don't understand that was to make a s time and then he can't... you don't know what you no? michael: i can't. i can't do that. jim: oh, no. i am on. i was on the way to you no? michael: yeah? michael: yeah. i'm not going to hear you right. michael: i don't. 
+--- temperature: 0.5
+ to hear you right. michael: i don't. i don't understand.   michael: and it's not to work having you. michael: mm-hmm.   michael: what can't make a hero! dwight: oh, my god! dwight: no. dwight: no. no. [laughs] all right. i'm not friends, we're friends. jim: yeah.    michael: i don't hear it. that's what i said. i'm not on a , we had a little bit there's no. michael: you're not coming back in the time and then we can go 
+--- temperature: 1.0
+coming back in the time and then we can go away i did? jan: no. i have to call a t you're man. and what she know? but she is you just told me it... i won't a , we know, i wouldn't do it on, one more. jim: you to make it. jan: i'm really good. michael: what do's not your name? dwight: well, i'm coming to not do that. kevin: no, no, listen, as long. dwight: what? how much you doing right? that's not my wife- nellie
+--- temperature: 1.2
+ you doing right? that's not my wife- nellie: and i'd you got a little salesman. what? what is it? jim: well, is that it? dwight: no, michael you i would like you down. michael: i!   kelly: here. say uh, like to want to do it. michael: can't give us. jan: no... michael: what can't. i'm a dad, uh, you guys,. dwight: make it. look, we no. you was what what cool man, so. don't be the sign.  kevin: what are you talking to?
+
+epoch 85
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!?!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!?!!!!?!!!,!!!!!!!!!!!!!!!!!!!!,!!!!?!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!?!,??!!?!!?.!!!,!!!!!,!-!!!!!,!!!!!!!!!?!?!,,!!,!,!!’!?!,!!?!!!?,!!!!’!!!!!,!?!!!!!,!!!!’?!,!!!!!!!!!!!,,!??!-,!??,,!!,!!!!!,!!,!!!!!’,!!!!!,!?!!,,!!?!!!!!!!!,!!!?!,’!?!!,!!?!!!,!!!!?!!?,!!!!!-!-?-,
+--- temperature: 1.0
+,?, ?’].??,!!',,,!!?!!!!,’,!?!,??,!!-!.??.,!!!?!?!!!!?!.’?!!!?.!!,?-.’,?!.’',,].!,?.??!!?.,!!! ,,!?,-!,!?-,!’.’!!-!.’?] !,!! !!!!,!! .’!!!?-’!!!!,-’!!,!,,!,!,!!.!,,]!-,??,!!.!!’?,,,.,’!!!,.-?!-?!?.,!!
+--- temperature: 1.2
+-??!.’!,’?’’?’?!]?!,!],,-,]!,’! ?!!!,!???!!!!.’!!!!,,- '-!!,!!.!?!?!,!,,!!!-!!,-!!!,!!'-.?!!!!,!’!'’!!?!!-!.!!!!’!’?-!??-,,-’!?!!!',?’!!!-’?,-!?!!!!!!!.’?,!,!’!!’-,!!!?,!,!!? ??,’?!]?!’?!,!--!-!’?-!,!
+
+epoch 86
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!,!?!!!!!!!!?!!?!!!!!!!!!!,!!!!!!?!-!!,!!!!!!?!!!!!!!!!!!!!!!!!!!!!?!!!!!!?!!!!?,!!!!?,,!!!!!!!!,!!!!!!!!!!,,!!!!!?,!?!!!!!!!!!!?!!!!!!!,!!!!!!!!,!!?!!!!!!!!?!,!!!!?!!!!
+--- temperature: 0.5
+!,,,,!?!?!!’?!!!,-?,!!,!!,,!!,,.?,!,!??!,,,’!?-!?,!!!-!,!,!,!!!!!?,!,!!!?,,!?!!!!?-!!!!!!,?,??!?-?,??!!!!!-!!!.!!??!!,,!-!!!!!!!,?!!!,!,!!,!!!!!-!!,?.!,!,!??!!??!?!,!!,?,!!,,!??!!!!!!!,!!!!.!!!!,!!!?!
+--- temperature: 1.0
+.!!?'????, !!-!!’!,,!- !,-!!?-.!-,!- !?.-.!-!!.,,-!!!.?'.!.!,?.,-,,,!!-,!!-', ?!!,!,!-’!!-!’?!!,?!.!!?!!!?!,??’?,,.!].-,,-!?-!?’,,!,!-?!!,?’,!??-???,,?!?!?,?!?!???', ,,!?'.??!??!,?!?-’,!!???!!!'!',!!!
+--- temperature: 1.2
+’.?!!,,,-!,!!?!.-,,!!!’?!.,,,,'.'!,!’’?!,, ,'?,,,.-’-.!!!-?',!!,, !?,-,!-!’!?-,’!'!-!’],--!!?!,-!?,!!- !'!-.-!!,,’!!?!!!,!.?,?!-,!!,,!---!-!,,!,.!?’,-'.,!?,?!?'!!,!-!!.!’!.-??????,!!!??,!.,!!-,,,..! ?
+
+epoch 87
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!,!!!!!!!!!?!!!!!!!!!!!!,?!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,!,,!,,?,!!!!!!!!!!!,,!!!!!!?!!!!!!,!!!!!!,!!!!!!!!!!!!!!!!!!!!!?!,!!!!!!,!!!!,!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?
+--- temperature: 0.5
+!-!?!,!??!!,!!!!!,,,!!,,!!!!,!!,!,,!!?,!,?!,?!!.!!!,!???,,!!!!!!!?,,!,,?!,!!!!?!!!!!!,,,!?!.,!?!,?!?.??,!?,!!?!!!!??,!?,!,!!,??!!,!?,!!!!!,?!!!,.?!!?!,!!?!. !,!?!???!!?,!!,,-?!!!??!,!-?,!!,,,!,!!,?!!?
+--- temperature: 1.0
+?-!’?!,!-??!!!?,.!!,?’'.!?!,!-!?!,?!!???.,!!?!?,!???!!?!!-?!]!.!’]!?-,?!],-’!!?-!!?!'-,’!!,.!!??!'!?,-?!???!!???,,!!!??,?!!?,. ?!?’!.!'!.??!’',,,?'!!?,?!!,,,,,.?,!?.,.,!!?’??!,!?,!??!,'!!!,,'?.,!?!--,
+--- temperature: 1.2
+??!,!,!,,,-!,!,!?',,!.!’.'-,,?,??!,?!,,??  -?-?,'!,?!'?!.!!!,!!,,,?]!?,!-,,.?--,!!?!,,?!?!!!!!.!,.?!?!?,,’-,?-.,!,!-,’!??.!,!?,’!!!?,! -!!!!--!!!.??,?-] . ,-!!??'.!-!,!, ?,! !!,?]].,-?',,???-,?,!?,,!?
+
+epoch 88
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!??!!!!!!!!!?!!!!!!!!!?!!!!!!!!!!!!!,!!,!!!?!!!,?!,,!!!!!!!,!!!!!!!!,!,!!!!!,!,!!!!!?!!!!,!?!!!!!!!!!!!!!!?!!!!!,!!?!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!,!!!!!!!!!!!!!?!!!!!!?!!!!!!!!!!!!!!,!!!!
+--- temperature: 0.5
+!!!!! !!!?!!!!!!!!?!!?!,??!!!-?!,’?!?!??,!,,!!!!?,,??? !!,!!!,!?!?!?!!,!,,!!-??!.!?!,!!,!!,!,?!,!!!!!,!!!??!,!!,,???,!?!!!!?!!?!!??!?!???,,!,?!!??!!,,?,-,!,!?',!!!,!!!!-,?!!!!,!!!,!-,!!!?????!!!??.!!,
+--- temperature: 1.0
+!?!?,!?! ,??.,,,.?,!!?-,! ?-,,!!?!!?,- !.?!!!!!-?,!,?,?,?!!-!? !?!,.!-,!,-!!!.!,?,!?,!!,?,’!,!!?!?!.,!?-!,- !,?.?!-,,-,,-!!,,!, .!,!!!?,’!!!?,?!!?. !! ’ ?,.!?,? !?,..!!!,!.?’-?!!!!,!’?.!-,.,- !,.!]-!!
+--- temperature: 1.2
+!,.?!?,’!,?-!,?,,’.?!!!,!,]? ??-?,??!,,,!!?!?,’? . .-,!,!,?’- ??!’'!-?!,.’!!?!!!!!-’!-  ?!?-],?! ,,.].,,'!-.-?!,!?-!!’,,,,]! ?! ,-''!!!-’-,  -!?!!!!,,??!,!!!?!',!,'!!-]!,!,’,!,!,?-,??',,?.!!!,,,’!!-?,
+
+epoch 89
+
+--- Generating with seed: "– what is this supposed to be? jim: it’"
+
+--- temperature: 0.2
+– what is this supposed to be? jim: it’s not the baby. jim: [to jim] [jim gets up to   pam: hey! pam: [to jim] jim: [in phone] how much do we have to do about that? pam: i don't know. jim: no that i. jim: i don't think that i have a question. jim: [on phone] hey, how do you want to make an the office? michael: i don't know. jim: i don't know. jim: i don't know. jim: what are you doing? jim: what 
+--- temperature: 0.5
+know. jim: what are you doing? jim: what are you doing? pam: i thought it's all it is and i can be back. kevin: i don't think i can '. angela't. pam: what is that? jim: what? jim: i don't think that we should go for him. michael: no. michael: no. no. no. no. no. no. no. no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! no! 
+--- temperature: 1.0
+! no! no! no! no! no! no! no! no!.. then me for him. [guy on his phone] maybe. angela: jim, do it! jim is got it. pam: [jim on phone] nice. jim: uh, this is just my job. ryan: tell us would i have to. kevin: i'm sorry. roy: pam, did she tell me? jim's office, great! jim: take the sale? jim: yeah. jim: how one one. jim’--:-- andy: my time. jim: all right. do you love it? pam: i just can'
+--- temperature: 1.2
+. do you love it? pam: i just can't be here. jim: have you   jim: did you like for a place? please, but if you got me down what- karenare mwho were icome me. wanna 0: pam? jim: let's say off. dwight: really? erin: uh... dwight: where did we have on? jim: [laughing] jim. it's friends. phyllis: look. get off the door "cause they're saying the bet you know it get that you got. dwight: please? good is did that? michael: hey. jim: do you want
+
+epoch 90
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!,!!?,!!!!!,!!!!!!!!!!!!!?!!!!!?,!,!!!!!!!!!!!,!!!!!,!!!!!!!!!!,!!,!!,!!!!!!,!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!?!!!!,!!!!!!!!!!,!!!!!!!!!!!?!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!!?!!!!,?,?.!!!,!?,,!!!!?!!!???!!!,!?!!.,-’!!,!,!!!!?!!!,!,,?,!!?,'-?!??!!,?,!!,!!!!,!!,??!!!!?,!!!!-?!!?!?!!,,!??!!?,’!!!?!?-!-?,,?!??!!!?,!?!!-!!,!,!??!,!?!.!!!,,,!!?!?!,!,??!,!!,!!!?!??!!!!!!?,,!,!
+--- temperature: 1.0
+?,,,,!,?!!?!’!?,,...??!.!,?'.,,'!!!--!???,,!,!.,?!!?!,!-,?!!?,-?? ,?,!!!,,.!,-,,,!!?,?’!?-?!,!,??!!,’.,!!,!-??-!!]!!!!?,?-?!.!?..,-,!,!!?!!!'?!!,,???? ,-!!!!.,,,-.!!-!??!!,,!!?’!!?!!!,?!-,!?-,,!,-!??.
+--- temperature: 1.2
+’?,-,,?-!??,?!?,,,,,.!!,!.?!?,’!,’?.?’,?’'?.!!?! ,!!?,- !!’,,!?, ',.,.?.,-.,,’!-!!?,,,!.??],?,?!,’,!,?? ,’!?!!!?,!..,!?!!,  !!,’!!?.!!???-.!!.???-?-!,!,’.,?,!!,?,,?,?,-!,?!?..’?].!!,,!??!!??--,!!??.,!
+
+epoch 91
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!?!!!!,!!!?!!!!,!!,!!!!!!!!!!!?!!!!!!!!?!!!!!?!!!!!!!!,!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+,?!!?!?!,..!?!!!?,?,!!!!!!,!!,,,,!!!?!!?,,!!?!!,!!!!!??!!?!!!!!?,?!??!!?!!!!!!!,!?!!!,,?!!!!?,,,!!!!,-!!,!?’?!!?!!,.!!?!,!,?!!!,!!?,!!!?!!!!?!!!!?,!.!,,!!!!!!?!!!!!!?,!!-,,!!!!,,,!,!!!!!,'!!!!!!!!,!,,
+--- temperature: 1.0
+.?,-??!!,]!!, !!!,?,!!,?!!?!!,]?,,!!!!’!’,-!,'!?!.,!,, ,!!,? !'],,.,,!,..,!,,!!?!-?-!,?! !',?!-!!!-,!,?.!,,!!!?-]],,,!,-.!,?’??!!,,,!.!,!.!?,,,,,!,!!? !.-., ?,??!,!,,?!!!!,?!,-,,-!?!,.-]??,?,,,.!,,-..
+--- temperature: 1.2
+??.!!,.],-??’ ?!]?!!?.!,!,!,,.?!!,!!,?!!,-!!.!’,!,-!!!,! !.,!?  -!'.!,?,?!!]!?.,!--.,,!???.,?,]?!!?.??,!,.?!'!!,?!,,,,'??!??!,!!!!!-,.,?!!????!.?!,!’,?? .??!!?!!!!,?],’,'!. !!!!.!-!'!!!?,??,,.! !?.!!!
+
+epoch 92
+
+--- Generating with seed: " michael: what?! michael: we did it? we "
+
+--- temperature: 0.2
+ michael: what?! michael: we did it? we did it is that.   kevin: i am it is.   jim: [on phone] oh, i am that. ryan: yeah, i am. michael: [laughs] i'm not a burn.    erin: oh, my god. andy: yeah, that's a lot of the way, i would never get to my desk. ryan: i'm not sure about you. michael: i am i is i want it. i'm just a copy idea.   jim: [to michael] pam, we should have a lot of to i 
+--- temperature: 0.5
+ pam, we should have a lot of to i think i am. [jim leaves] michael: [laughs]   jim: i am that.  pam: hey michael. i was a jo a lot of a good time? ryan: no. no, no. no, no, no, no, no, no. kevin: no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, 
+--- temperature: 1.0
+, no, no, no, no, no, no, no, no, no, i not. i'm not, one one that makes me it.  jan: there's what i’ve   jim. jim: no, come on down. dwight: [on phone] dwight is the office dead. pam: no, we find a lot of. it has to.  michael: [on phone] let's let it down. michael: you didn't go. [michael walks through jan] darryl. so, i'm really a little bit. michael: i am i to give it back. jim: yes when i want
+--- temperature: 1.2
+ to give it back. jim: yes when i want this years. he's what- creed: okay. michael: what?  michael: "he re- andy: it's.  angela: did you get out of it] stanley: you a brown does what she do. well, jim, that's not you a minutes? kevin: a little crazy? dwight: no problem. it made... it, my office, no! [are you, dwight is your car? i've  ? really? erin: i am. dwight i'm good? oscar: very about that. angela: you don't want the job!
+
+epoch 93
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!,!!!!!,!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!,!!!!!!!!!!!!!,!!?!!!!!!!!!!!!!!!!!!,!,!!!!!!!!,!!,?!!!!!,!!!!!!!,!!!!!!!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+--- temperature: 0.5
+!?!!’!!!?!!!,!,!!!!!!,,!!?!-,!,,-!??!!!!!!!!,?!!,??,,!?!!!!,!!!,,,!!! ,,!?,!!?!?!,??!!!!!!,!.!!!,!!,,!!! !!!!!,!!,,!?!!?!!!!!!?!!!!,?!!!!,?!?!,!!!!!!!.-,?!?,,!!!,,!?!!?!,!?!,!!!!?,!!!?!?!-!,!!!?!!!!!!
+--- temperature: 1.0
+-,!,,?!,,?.!!,!,?]’,!]!.,,,]!?.,!-,!,',?,,'!,!-.!?-?!-,,!?!!?!?,!!.?!?!!,!',,’!,??!!.!!!.?-!!?,!!!?,,?-.!!!!- ?.,?!?!!,?’,!!!.!,.,-!!, !!?,,'!-?,!,!!,!!.!!,-!! !-.!?,!,!!.-,!-?,,!,!!!!!,,!?!!,,?!-!,!,
+--- temperature: 1.2
+! --?]!!-’-,-! ?,!-!!?-!??!-,,!?--,?,!?-!?,.?,-.!!,.,!,??, ,!!!.’!!.'.,!!'.-!-?!!!!?-,?!!!!?,,--?,],,]?!!,,!!?!!?!.,,!.?!’,,,!,,..,,?!!,!,!!,? ?,,!!,,.’!,-???-!.,,!!!,!??..?!.!?-’!.]! -?!!!,!?,!!!,.!?
+
+epoch 94
+
+--- Generating with seed: " keep it in your pants. dwight: i was just"
+
+--- temperature: 0.2
+ keep it in your pants. dwight: i was just crazy out i came to go to go to go. michael: [to michael] please hold on the phone] hey... i should go to go. pam: okay.                  kelly there is? michael: i don't know what you said. michael: i don't know what you said. michael: i don't know. pam: i know. jim: okay. i don't know what you know. michael: i don't know what are you doing? dwight: i don't know. michael: 
+--- temperature: 0.5
+you doing? dwight: i don't know. michael: i don't know you just like that was your job. andy: no. no. michael: yes! jim: no! dwight: no, no! dwight: no, no, no, no, no, no. dwight. dwight: okay. michael: okay. michael: okay. i know what? i can be back in the office. michael: oh! well... michael: i know. michael: i don't know what i do. michael: i don't want to go to go out. pam: uh, i don't... i know what i can
+--- temperature: 1.0
+, i don't... i know what i can go. okay-- michael: no. no. okay. michael: no! no out, is my room for a meeting. jim: so you know what? thanks, when think that have something in your place and i knew it. pete: what? andy: one is so much for a little bit can go to do not just go. dwight: i were saying that have a lot of guy in the job? dwight: oh my god--- michael. i can talk, from your desk. dwight: no problem! here [was it angela? michael
+--- temperature: 1.2
+ dwight: no problem! here [was it angela? michael: and it 0. phyllis: yes. but it was no. it had it good. dwight: you don't- karen: it is nice- jim: is that talking to the night was about the car, so... pam: good stuff. don't talk to it was the phone for that   creed, a lot of to talk. robert: oh, it is okay. dwight: oh, do you get it? pam: yes. dwight: hey, hey, nope. bye, all right. [lot, as to go down. phyllis: uh it 
+
+epoch 95
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!,!!!!!!!!!!!!!!!!!!!!!,!?!!!!?!!!!!!!!!!!!!?!!!!!!,!!!!!!!?!!!!!!!!!!!!!!!!!!??!!!?!!!!!!!,!!!!!!!!!!!!!!!!!!!!!!!!!,!!!!!!!!!!!!!!?!!!!!!!!!!!!,!!!!!!!!!!!!!!!?!!!,??!?!!!!!!!!!!?!!!!!!!!!!?!’!!!!!
+--- temperature: 0.5
+,!.,!,!?,!,!!,!!!!!-!!!?!?!?!-!!!!!!!!!!!!!?,,?,!?!!!!!?!!,!!???!!!!,,!,!?!!!!!!?!!!??!!?!-,!,?!!!!!!,,!??,!!,?-???,!?!?!!?,,,!!!,!,!!!?!!!,!!!.!!!???!!?,!,!?!?!,!!!?!!!!?!?!!??!,!?!,,,,!,!?!!!??,,,!!
+--- temperature: 1.0
+!-!-!!,!.,,,-? ?!!?!??,,!!!,,!!!!,?, .,,?]-,!,!!!,!’?-!?’!,-!?..!,!.?.!,!!.-?!.,!!!!?,-!,!,!?,.!?!!!-.,’,?-,!.?!??!.!!,!,!!!, !???,?-!?!-],!??!’?, ,!. !!?!!,?.,?,!?.’?!],!-,!?!!!!?,,!-,-!!!,!,!!?!,,,’
+--- temperature: 1.2
+.’-?-?!,???!!?--!?!-.?!! -?!!,!!!.!.!',?!,’,.??!?,.!,.,,, -’?,!,!’??,?!!!!’??, ?,! ?’-!!.?.!’!?.,!,'.?!,-!!!,??!,,?,,??!!?!!,,?'!??'-]-?’!,!? !? !!?!']?!!,.'? ?!!,!?!,,!!,,! !!,!?!,?!!?-.?!!!,'?!!!,'!
+
+epoch 96
+
+--- Generating with seed: "oh. hello! ben franklin: hello! ben franklin: what"
+
+--- temperature: 0.2
+oh. hello! ben franklin: hello! ben franklin: what? michael: i know if i can do this guys too and we are going to see all right. michael: [on phone] you are out here. michael: [on phone] you are going to get out of here. dwight: that's not what i can. he was going to be back. pam: [to oscar] [kevin wallace: yeah] [jim walks wallace over] michael: what are you doing? michael: what are you doing? dwight: i know, i know. i have a blue guy. michael: [on phone] you 
+--- temperature: 0.5
+have a blue guy. michael: [on phone] you are going for this for a lot here and get out of a fire with you. michael: [on phone] you'm very sorry. michael: let me know why we don't want some one know well i'm not going to do this. pam: [on phone] michael] i was so about a big deal? michael: uh, and i have something to you guys are not going to be back to work. jim: ok. pam: [on phone] you can't go home. dwight: what? dwight: you want to see 
+--- temperature: 1.0
+home. dwight: what? dwight: you want to see if we can get any right now, or take this the conference room. who know what you do? andy: can i . i'm nice. michael: thanks.   erin: well, what do you think we can do that, too. kelly: jim really, i thought it's... it was going to get back for the way for this with me. nellie: [all phone to his day? erin: thank you. michael: [, kevin: well something you better--- this-- jim: that’s not not a financial. it'
+--- temperature: 1.2
+- jim: that’s not not a financial. it's... this was great! so how's he doing? toby: so, if you could be from work to be.  michael: on his desk, too. jim: about all out here in all your here? pam: um, how you at are? we say no way! dwight, come on! [laughs] i'll call with my desk. she is here. pam: there's it! nellie: oh my god. michael: you are not going to be for a whole bye. darryl: oh, dwight-  pam: [not with angela 
+
+epoch 97
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!,?!!!,!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!,!!!!!!!!!!!?!!!?!!!!?!!!!!!?!!!!,!!!!!!!!!?!!?!?!?!!!!!!!!!!!!!!,!?!!!!!!!!!!?!?!!!!!!,?!!!!!!!!!!!!!!?!!!!??!?!!!,!?!!!!!!!!!
+--- temperature: 0.5
+?!!.,!!!!!,!!!!!!!??!!!!!!!!!?!?!!??!!!!!,,!!?!?.!!,!!!!!!!?!!,!!.?!!!!?!!,!,!!!!???!,!,!,?!!!!!?!,!!!,,!,,!!,,!!,!??!?!,!!!!!,!!!!,!!!!!!,!!!!,,,?!?!?!!!?!!!!,!,!!!!!,!,?,!!!,?!!!??!,!,!,!!?!!!,?!,!!
+--- temperature: 1.0
+,?!!!?'.?!!?..?!!!?!!!?-!?,?-’.!!!!!?,,!,!?!!!?!?!!,?],,!’?!?!!?!,?,!,’,???!,,,!.-!!,.?!.!?!!.,,!??!?,!!?,!!,!.!!?,.-,!,!?,!?!??,.-?,??!??!!,,!.,!?!!?!??-,?-?,,-,,,!!,!!!]’!!’!!?!,! !!!!!,!!,!,,,,!!,!
+--- temperature: 1.2
+’?.,!?!]?,,-!!,!!!!!.,!!!]???!? ,?,!!,?!?,.,-,,-!,??!?!??,'!!?,!!,!.]!'-!,,.!!,!!??!!?,?,,.!,,.?!?.!!!!!!?!,!??!!!!?!?.,!!-?,!!’’,!,] ?.??.!,!!.?!!?!!!!!?’,,??’.!!',.?!!!!’!.,?!?,?!,?.,’,.!.,,!!’!,?!,
+
+epoch 98
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!?!!!?.?,!!!!?!?!!!!!!!!!!!,???,,!!?!!?!!!!?!!!!!!!!!!,!!!?!!!!!!?!?!!!!!!?!!!!!?!!!!!!??!?!!!??!!!!!!!?!!!?!!!!?!!?!!!!!?!?!??!!?!!!!?!!?!!!?!!!!!!!?!!?!!!!!!!????!!?!?!?!!,!!!!??!,!,!!!!!?!?!!?
+--- temperature: 0.5
+?!,!,?!!,,,!,?!!,?,!!!,.??,?!??,!!!!?!,!?,,!?!!,???!,?!,!,??!!,!?!,,?,!!???!???!?!!!,??!?!,!??,??!???!!!!!!!??.,!,!??!!!,?!!!!?,????!!??!!,!,!!!!!?,,!!,?!!?!!!!!?!?!!,!?!?!!??!!!!!?,!??!,!!!,?.!!!.!!!
+--- temperature: 1.0
+.!??-,?.,!?,,?-,?.?!,!!??’!,!!!!??!!!!,!’?,,!!--!? ]!,',',!?!?.??’,! !?!.!?!,!?,!?,,,]!!!'?!,,’.!,!’-?-?.!'!?!!,!!,.,!!.!.!.?!’!!?’?..??!,,?!!??!,!?!!.?'!.-!,!!!!!,,!.?,!.?.,??!?!!!.?-'!!!!??!?.!??,-!
+--- temperature: 1.2
+?!-?!.!-!??!!!.!!!,'?!,!,..,.!,.!,?,!?,???,'!??!!,!!!.!,??!,!,,-??!,..??]?,,,?.!,,,?,,,!.-!??.?.!!,!??,'!!?’?!.,!?.!!?,!!.,?,??.!,!?!!!?-,,!,?',??,.?!!,,,?,’].!,,?!,!!.,.!?...!-?!.?!!!!-!,!!!!.,!-!,?,
+
+epoch 99
+
+--- Generating with seed: ""
+
+--- temperature: 0.2
+!!!!!!!!!!!!!!!?!!!!!!?!!!!!!!!!!?!!!!!!!!!??!!!!?!!!!?!!!!!!!!!!!!!?!?!!!!!?!!!?!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!,,!!!!!!!!?!!!!!!?!,!!!!!!!!!!!!!!!?!?!!!!!!!!!!!!!!!!!!!!?!!!!!!!,!!!?!!?!!!!!?!!!!?!!
+--- temperature: 0.5
+!!!!,,!,,,!!,!!!!!?.!-!,?!!!,??!?!?!!!,.,?,!!,!!!!??!!!???!!,!!!!!! ,!,?!?!!,??-?,!!!!!,!!,!,-!??!!!,,?,!?.!?!?,,?!!-!???!!.-!,!!!-.!?!!?!!?!!??,!!!?,!!??!!,!,!!!,,.?!?!,!,!?!!,?!!!!,!!!,!,!!!!?,!?!?!
+--- temperature: 1.0
+!,!,-.,?.!-!?!-'??!,!?!!,?!?,!??! !,!! !!,!!,,,!,.!!,!,?,-,?!!,!!-!.??,!.,,!,,!!,.,,!?!!!!!-??'!!!!!,-,!?!,?.?-!!-!.?!!!!?,?,’,!!’!!!!!!?!!, -?'!?!?.!!!??,!?! ?!?'!!!?-!!?,,!!!!?!-?,???,!!!!???.!?’!?!
+--- temperature: 1.2
+?’?!,??,, '’!!!!?,!,!! ?,?!!!’,!’,,!-- !!,',!!?!!!!?,!!.?’-- ?’-?!!-?, .,,?,.!! ,-!.!!?,,,-!.,!?',! ?, ?]?,!!?--,?,!?!.!.,!!,,?!!,!!,?.!!-, ?!'?!. !'?'.-!.,!!!!!!.,!?!,?,? ?-?!?,!!!?.!--!?!?,,,!’!!!?!
