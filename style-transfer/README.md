@@ -1,6 +1,9 @@
 # Style Transfer
 
-1. [Style Transfer Practice](https://github.com/Pradhyo/the-office-us-tv-show/tree/master/fast-style-transfer/keras-style-transfer.ipynb) ([scratchpad](https://github.com/Pradhyo/the-office-us-tv-show/tree/master/fast-style-transfer/keras-style-transfer-scratchpad.ipynb))
+- [Notebook run on Kaggle](https://www.kaggle.com/pradhyo/keras-style-transfer?scriptVersionId=9461535)
+- [Notebook for blog post](https://github.com/Pradhyo/machine-learning-practice-notebooks/blob/master/style-transfer/2019-01-12-keras-style-transfer.ipynb)
+- [Input images](https://github.com/Pradhyo/machine-learning-practice-notebooks/tree/master/style-transfer/images)
+- [Output images](https://github.com/Pradhyo/machine-learning-practice-notebooks/tree/master/style-transfer/output)
 
 ## Resources
 1. [Neural Style Transfer](https://nbviewer.jupyter.org/github/fchollet/deep-learning-with-python-notebooks/blob/master/8.3-neural-style-transfer.ipynb) (notebook)
